@@ -1,13 +1,12 @@
----
-date: 2017-10-19T15:26:15Z
-lastmod: 2019-10-26T15:26:15Z
-publishdate: 2018-11-23T15:26:15Z
-
-title: 欢迎来到LCNA Docs
-description: Text about this post
-images:
-- images/pexels-photo-196666.jpeg
----
++++
+title = "欢迎来到LCNA Docs"
+date = "2025-08-19"
+[menu.main]
+name = "主页"
+weight = -1
+[menu.main.params]
+icon = "home"
++++
 
 # Welcome！
 ## LCNA Docs是由LCNA构建，Zhisheng主要维护的在线知识库

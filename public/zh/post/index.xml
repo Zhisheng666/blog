@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Aotra Wong</title>
+        <link>http://localhost:1313/zh/post/</link>
+        <description>Recent content on Aotra Wong</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Aotra Wong</copyright><atom:link href="http://localhost:1313/zh/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title></title>
+        <link>http://localhost:1313/zh/post/helloworld/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/zh/post/helloworld/</guid>
+        <description>&lt;p&gt;title = &amp;ldquo;Hello World&amp;rdquo;
+date= &amp;ldquo;2025-08-17&amp;rdquo;
++++&lt;/p&gt;
+&lt;h3 id=&#34;hello-world&#34;&gt;Hello World
+&lt;/h3&gt;&lt;h4 id=&#34;welcome-to-aotras-blog&#34;&gt;Welcome to Aotra&amp;rsquo;s Blog
+&lt;/h4&gt;&lt;h4 id=&#34;runnning-on-hugo-with-stack-theme-powered-by-cloudflare-pages&#34;&gt;Runnning on Hugo with Stack Theme, Powered by CloudFlare Pages
+&lt;/h4&gt;</description>
+        </item>
+        
+    </channel>
+</rss>
