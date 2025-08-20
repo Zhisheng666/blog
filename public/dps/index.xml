@@ -1,12 +1,140 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>DPS文档 on Aotra Wong</title>
+        <title>DPSes on Aotra Wong</title>
         <link>http://localhost:1313/dps/</link>
-        <description>Recent content in DPS文档 on Aotra Wong</description>
+        <description>Recent content in DPSes on Aotra Wong</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Aotra Wong</copyright>
-        <lastBuildDate></lastBuildDate><atom:link href="http://localhost:1313/dps/index.xml" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Sat, 08 Mar 2025 15:26:15 +0000</lastBuildDate><atom:link href="http://localhost:1313/dps/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>历史沿革</title>
+        <link>http://localhost:1313/dps/history/</link>
+        <pubDate>Sat, 08 Mar 2025 15:26:15 +0000</pubDate>
+        
+        <guid>http://localhost:1313/dps/history/</guid>
+        <description>&lt;h3 id=&#34;dps开创于2020年7月在当时被称为zhishengs-minecraft服务器&#34;&gt;DPS开创于2020年7月，在当时被称为Zhisheng&amp;rsquo;s Minecraft服务器。
+&lt;/h3&gt;&lt;h3 id=&#34;以下是我们的版本记录和更新简介详情请见更新计划&#34;&gt;以下是我们的版本记录和更新简介，详情请见更新计划。
+&lt;/h3&gt;&lt;h4 id=&#34;zhishengs-minecraft-server-202007202102&#34;&gt;Zhisheng&amp;rsquo;s Minecraft Server 2020.07~2021.02
+&lt;/h4&gt;&lt;p&gt;简单地开启服务器进行测试&lt;/p&gt;
+&lt;h4 id=&#34;dps-alpha-1-20210708&#34;&gt;DPS Alpha 1 2021.07~08
+&lt;/h4&gt;&lt;p&gt;经过了前期的尝试，终于正式开始Minecraft服务器（Java 1.16.5）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;解决Frp端口映射&lt;/li&gt;
+&lt;li&gt;使用MinecraftWCB的笔记本电脑作为服务器。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;dps-alpha-2-20220102&#34;&gt;DPS Alpha 2 2022.01~02
+&lt;/h4&gt;&lt;p&gt;此版本是上一个版本的延续&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;通过群晖ABB套件实现了每小时的自动备份；&lt;/li&gt;
+&lt;li&gt;服务器更换成Zhisheng的i3-7100主机；&lt;/li&gt;
+&lt;li&gt;同时获取了不定期更换的公网IP，可以保持高质量的联机网络。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;dps-beta-20220708&#34;&gt;DPS Beta 2022.07~08
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;服务器更新至1.18.1；&lt;/li&gt;
+&lt;li&gt;更换了新地图，以便体验最新内容；&lt;/li&gt;
+&lt;li&gt;内存升级到32G，CPU也换成了i9-10890HK（超频至4.5GHz）。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;dps-dev-202212202302&#34;&gt;DPS Dev 2022.12~2023.02
+&lt;/h4&gt;&lt;p&gt;很不幸，又一轮的疫情袭来，我们也被迫从学校转移到家中。期间，&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;我们重新更换了地图，也就是现在DPS的地图；&lt;/li&gt;
+&lt;li&gt;升级到了1.19.2。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;dps-10-202307110720&#34;&gt;DPS 1.0 2023.07.11~07.20
+&lt;/h4&gt;&lt;p&gt;这个阶段，我们进行了服务器的测试和决策，以下是我们决定的方案：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;服务器升级为1.20.1；&lt;/li&gt;
+&lt;li&gt;原地图导入优化；&lt;/li&gt;
+&lt;li&gt;DPS进入正式阶段。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;dps-11-202307200820&#34;&gt;DPS 1.1 2023.07.20~08.20
+&lt;/h4&gt;&lt;p&gt;在DPS 1.1中，我们有了更多的成员，也更换了更加稳定和高性能的服务器。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;修建轨道交通Railway #1 （一期及二期）；&lt;/li&gt;
+&lt;li&gt;修建和更新了数个建筑；&lt;/li&gt;
+&lt;li&gt;基本上将滨海湾-主岛-东部山移平，已将西部山移平。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;dps-12-ltns-2023082020240127&#34;&gt;DPS 1.2 LTNS 2023.08.20~2024.01.27
+&lt;/h4&gt;&lt;p&gt;在DPS 1.2 LTNS中，我们不定时开启服务器。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;修建轨道交通Railway #1 （二期及更新车站）；&lt;/li&gt;
+&lt;li&gt;规划了行政区划及交通。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;dps-13-202401280221&#34;&gt;DPS 1.3 2024.01.28~02.21
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;S1/中心纵线 贯通&lt;/li&gt;
+&lt;li&gt;S2/中心横线 中心站-主岛中枢纽&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;dps-14-ltns-202402220711&#34;&gt;DPS 1.4 LTNS 2024.02.22~07.11
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;进攻远古城市&lt;/li&gt;
+&lt;li&gt;S4/远古城市连接线 一期&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;dps-15-202407120731&#34;&gt;DPS 1.5 2024.07.12~07.31
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;S2/中心横线 中心站-主岛西&lt;/li&gt;
+&lt;li&gt;S5/西南连接线 主岛西-中心站&lt;/li&gt;
+&lt;li&gt;S4/远古城市连接线 二期&lt;/li&gt;
+&lt;li&gt;S104/山水公路-北段 山水北-平地岛&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;dps-16-202408010820&#34;&gt;DPS 1.6 2024.08.01~08.20
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;开始建设湖心岛&lt;/li&gt;
+&lt;li&gt;S3/湖心岛连接线 贯通&lt;/li&gt;
+&lt;li&gt;S3N/北湖心岛支线 贯通&lt;/li&gt;
+&lt;li&gt;滨湖互通升级&lt;/li&gt;
+&lt;li&gt;S102/湖心岛大道 滨湖互通-袭击村&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;dps-17-ltns-2024082120250118&#34;&gt;DPS 1.7 LTNS 2024.08.21~2025.01.18
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;Railway #1 袭击塔-新东合作区&lt;/li&gt;
+&lt;li&gt;S1W/畔湾西支线 贯通&lt;/li&gt;
+&lt;li&gt;S7W/南村支线 贯通&lt;/li&gt;
+&lt;li&gt;S8/东山连接线 新东站-东区西&lt;/li&gt;
+&lt;li&gt;S8W/袭东连接线 贯通&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;dps-18-202501190208&#34;&gt;DPS 1.8 2025.01.19~02.08
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;S103/海龟公路 管理中心-主岛西（原S5撤销）&lt;/li&gt;
+&lt;li&gt;S2/中心横线 新增 主岛中 出入口&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;dps-19-ltns-202502090710&#34;&gt;DPS 1.9 LTNS 2025.02.09~07.10
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;新增 Dynmap Minecraft 服务器地图插件&lt;/li&gt;
+&lt;li&gt;S2/中心横线 新增 主岛东北、主岛东南 出入口&lt;/li&gt;
+&lt;li&gt;S1N/中心北线 北山西-北山站 调整&lt;/li&gt;
+&lt;li&gt;开启 G1/滨海湾大道 规划（S101/滨西通道 与 S102/湖心岛大道 贯通运行）&lt;/li&gt;
+&lt;li&gt;S103/海龟公路 新增 西山 出入口&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;dps-20-2025071120250729&#34;&gt;DPS 2.0 2025.07.11～2025.07.29
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;&lt;strong&gt;DPS，开创新纪元！&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;dps-21-2025073020250830&#34;&gt;DPS 2.1 2025.07.30～2025.08.30
+&lt;/h4&gt;</description>
+        </item>
+        <item>
+        <title>发展规划</title>
+        <link>http://localhost:1313/dps/plan/</link>
+        <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
+        
+        <guid>http://localhost:1313/dps/plan/</guid>
+        <description>&lt;h2 id=&#34;dps-2-暨-dps-五周年庆典-将于-20250724进行&#34;&gt;DPS 2 暨 DPS 五周年庆典 将于 2025.07.24进行！
+&lt;/h2&gt;&lt;h3 id=&#34;当前版本20-&#34;&gt;当前版本：2.0 ！！！！！！
+&lt;/h3&gt;&lt;h4 id=&#34;版本发展规划&#34;&gt;版本发展规划：
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;彻底移平和重建主岛东&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Railway #1 新龙线&lt;/strong&gt; 中心-西区中&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Railway #2 西雪线&lt;/strong&gt; 中心-西区南&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;dps-21-update&#34;&gt;DPS 2.1 Update：
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;S101 滨湾通道（望洋立交-滨湖互通）&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        
     </channel>
 </rss>
