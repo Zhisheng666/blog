@@ -2,145 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>欢迎来到 Aotra&#39;s Blog on Aotra Wong</title>
-        <link>http://localhost:1313/</link>
+        <link>https://blog.lcna.cn/</link>
         <description>Recent content in 欢迎来到 Aotra&#39;s Blog on Aotra Wong</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Aotra Wong</copyright>
-        <lastBuildDate>Wed, 20 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>历史沿革</title>
-        <link>http://localhost:1313/dps/history/</link>
-        <pubDate>Sat, 08 Mar 2025 15:26:15 +0000</pubDate>
-        
-        <guid>http://localhost:1313/dps/history/</guid>
-        <description>&lt;h3 id=&#34;dps开创于2020年7月在当时被称为zhishengs-minecraft服务器&#34;&gt;DPS开创于2020年7月，在当时被称为Zhisheng&amp;rsquo;s Minecraft服务器。
-&lt;/h3&gt;&lt;h3 id=&#34;以下是我们的版本记录和更新简介详情请见更新计划&#34;&gt;以下是我们的版本记录和更新简介，详情请见更新计划。
-&lt;/h3&gt;&lt;h4 id=&#34;zhishengs-minecraft-server-202007202102&#34;&gt;Zhisheng&amp;rsquo;s Minecraft Server 2020.07~2021.02
-&lt;/h4&gt;&lt;p&gt;简单地开启服务器进行测试&lt;/p&gt;
-&lt;h4 id=&#34;dps-alpha-1-20210708&#34;&gt;DPS Alpha 1 2021.07~08
-&lt;/h4&gt;&lt;p&gt;经过了前期的尝试，终于正式开始Minecraft服务器（Java 1.16.5）&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;解决Frp端口映射&lt;/li&gt;
-&lt;li&gt;使用MinecraftWCB的笔记本电脑作为服务器。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;dps-alpha-2-20220102&#34;&gt;DPS Alpha 2 2022.01~02
-&lt;/h4&gt;&lt;p&gt;此版本是上一个版本的延续&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;通过群晖ABB套件实现了每小时的自动备份；&lt;/li&gt;
-&lt;li&gt;服务器更换成Zhisheng的i3-7100主机；&lt;/li&gt;
-&lt;li&gt;同时获取了不定期更换的公网IP，可以保持高质量的联机网络。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;dps-beta-20220708&#34;&gt;DPS Beta 2022.07~08
-&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;服务器更新至1.18.1；&lt;/li&gt;
-&lt;li&gt;更换了新地图，以便体验最新内容；&lt;/li&gt;
-&lt;li&gt;内存升级到32G，CPU也换成了i9-10890HK（超频至4.5GHz）。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;dps-dev-202212202302&#34;&gt;DPS Dev 2022.12~2023.02
-&lt;/h4&gt;&lt;p&gt;很不幸，又一轮的疫情袭来，我们也被迫从学校转移到家中。期间，&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;我们重新更换了地图，也就是现在DPS的地图；&lt;/li&gt;
-&lt;li&gt;升级到了1.19.2。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;dps-10-202307110720&#34;&gt;DPS 1.0 2023.07.11~07.20
-&lt;/h4&gt;&lt;p&gt;这个阶段，我们进行了服务器的测试和决策，以下是我们决定的方案：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;服务器升级为1.20.1；&lt;/li&gt;
-&lt;li&gt;原地图导入优化；&lt;/li&gt;
-&lt;li&gt;DPS进入正式阶段。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;dps-11-202307200820&#34;&gt;DPS 1.1 2023.07.20~08.20
-&lt;/h4&gt;&lt;p&gt;在DPS 1.1中，我们有了更多的成员，也更换了更加稳定和高性能的服务器。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;修建轨道交通Railway #1 （一期及二期）；&lt;/li&gt;
-&lt;li&gt;修建和更新了数个建筑；&lt;/li&gt;
-&lt;li&gt;基本上将滨海湾-主岛-东部山移平，已将西部山移平。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;dps-12-ltns-2023082020240127&#34;&gt;DPS 1.2 LTNS 2023.08.20~2024.01.27
-&lt;/h4&gt;&lt;p&gt;在DPS 1.2 LTNS中，我们不定时开启服务器。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;修建轨道交通Railway #1 （二期及更新车站）；&lt;/li&gt;
-&lt;li&gt;规划了行政区划及交通。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;dps-13-202401280221&#34;&gt;DPS 1.3 2024.01.28~02.21
-&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;S1/中心纵线 贯通&lt;/li&gt;
-&lt;li&gt;S2/中心横线 中心站-主岛中枢纽&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;dps-14-ltns-202402220711&#34;&gt;DPS 1.4 LTNS 2024.02.22~07.11
-&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;进攻远古城市&lt;/li&gt;
-&lt;li&gt;S4/远古城市连接线 一期&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;dps-15-202407120731&#34;&gt;DPS 1.5 2024.07.12~07.31
-&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;S2/中心横线 中心站-主岛西&lt;/li&gt;
-&lt;li&gt;S5/西南连接线 主岛西-中心站&lt;/li&gt;
-&lt;li&gt;S4/远古城市连接线 二期&lt;/li&gt;
-&lt;li&gt;S104/山水公路-北段 山水北-平地岛&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;dps-16-202408010820&#34;&gt;DPS 1.6 2024.08.01~08.20
-&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;开始建设湖心岛&lt;/li&gt;
-&lt;li&gt;S3/湖心岛连接线 贯通&lt;/li&gt;
-&lt;li&gt;S3N/北湖心岛支线 贯通&lt;/li&gt;
-&lt;li&gt;滨湖互通升级&lt;/li&gt;
-&lt;li&gt;S102/湖心岛大道 滨湖互通-袭击村&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;dps-17-ltns-2024082120250118&#34;&gt;DPS 1.7 LTNS 2024.08.21~2025.01.18
-&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;Railway #1 袭击塔-新东合作区&lt;/li&gt;
-&lt;li&gt;S1W/畔湾西支线 贯通&lt;/li&gt;
-&lt;li&gt;S7W/南村支线 贯通&lt;/li&gt;
-&lt;li&gt;S8/东山连接线 新东站-东区西&lt;/li&gt;
-&lt;li&gt;S8W/袭东连接线 贯通&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;dps-18-202501190208&#34;&gt;DPS 1.8 2025.01.19~02.08
-&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;S103/海龟公路 管理中心-主岛西（原S5撤销）&lt;/li&gt;
-&lt;li&gt;S2/中心横线 新增 主岛中 出入口&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;dps-19-ltns-202502090710&#34;&gt;DPS 1.9 LTNS 2025.02.09~07.10
-&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;新增 Dynmap Minecraft 服务器地图插件&lt;/li&gt;
-&lt;li&gt;S2/中心横线 新增 主岛东北、主岛东南 出入口&lt;/li&gt;
-&lt;li&gt;S1N/中心北线 北山西-北山站 调整&lt;/li&gt;
-&lt;li&gt;开启 G1/滨海湾大道 规划（S101/滨西通道 与 S102/湖心岛大道 贯通运行）&lt;/li&gt;
-&lt;li&gt;S103/海龟公路 新增 西山 出入口&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;dps-20-2025071120250729&#34;&gt;DPS 2.0 2025.07.11～2025.07.29
-&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;&lt;strong&gt;DPS，开创新纪元！&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;dps-21-2025073020250830&#34;&gt;DPS 2.1 2025.07.30～2025.08.30
-&lt;/h4&gt;</description>
-        </item>
-        <item>
-        <title>发展规划</title>
-        <link>http://localhost:1313/dps/plan/</link>
-        <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
-        
-        <guid>http://localhost:1313/dps/plan/</guid>
-        <description>&lt;h2 id=&#34;dps-2-暨-dps-五周年庆典-将于-20250724进行&#34;&gt;DPS 2 暨 DPS 五周年庆典 将于 2025.07.24进行！
-&lt;/h2&gt;&lt;h3 id=&#34;当前版本20-&#34;&gt;当前版本：2.0 ！！！！！！
-&lt;/h3&gt;&lt;h4 id=&#34;版本发展规划&#34;&gt;版本发展规划：
-&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;彻底移平和重建主岛东&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Railway #1 新龙线&lt;/strong&gt; 中心-西区中&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Railway #2 西雪线&lt;/strong&gt; 中心-西区南&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;dps-21-update&#34;&gt;DPS 2.1 Update：
-&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;S101 滨湾通道（望洋立交-滨湖互通）&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        </item>
-        <item>
+        <lastBuildDate>Wed, 20 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.lcna.cn/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>东莞轨道交通</title>
-        <link>http://localhost:1313/transmit/metro/dg/</link>
+        <link>https://blog.lcna.cn/transmit/metro/dg/</link>
         <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
         
-        <guid>http://localhost:1313/transmit/metro/dg/</guid>
+        <guid>https://blog.lcna.cn/transmit/metro/dg/</guid>
         <description>&lt;h2 id=&#34;东莞轨道交通dongguan-rail-transit目前运营以下线路&#34;&gt;东莞轨道交通（Dongguan Rail Transit），目前运营以下线路
 &lt;/h2&gt;&lt;h3 id=&#34;二号线--line-2-已于20160527开通段&#34;&gt;二号线 / Line 2 （已于2016/05/27开通段）：
 &lt;/h3&gt;&lt;h4 id=&#34;01-东莞火车站dongguan-railway-station&#34;&gt;01 东莞火车站（Dongguan Railway Station）
@@ -210,211 +82,74 @@
         </item>
         <item>
         <title>关于Aotra&#39;s Blog</title>
-        <link>http://localhost:1313/about/</link>
+        <link>https://blog.lcna.cn/about/</link>
         <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/about/</guid>
-        <description>&lt;h3 id=&#34;welcome-to-aotras-blog-website&#34;&gt;Welcome to Aotra&amp;rsquo;s Blog Website!
+        <guid>https://blog.lcna.cn/about/</guid>
+        <description>&lt;h3 id=&#34;欢迎来到-aotras-blog&#34;&gt;欢迎来到 Aotra&amp;rsquo;s Blog!
 &lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;由 &lt;strong&gt;Aotra Wong&lt;/strong&gt; 倾力打造，包含多方面的内容&lt;/li&gt;
+&lt;li&gt;使用&lt;strong&gt;hugo&lt;/strong&gt;上的&lt;strong&gt;Stack&lt;/strong&gt;主题构建，在&lt;strong&gt;CloudFlare Pages&lt;/strong&gt;上运行&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;下面是栏目分区&#34;&gt;下面是栏目分区～
+&lt;/h3&gt;&lt;h4 id=&#34;日常-daily&#34;&gt;日常 Daily
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;在这里，我会更新&lt;strong&gt;日常内容&lt;/strong&gt;，&lt;em&gt;比如吃什么 &amp;gt;ω&amp;lt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;部分内容将会不定期整理，并移动至合适的分区&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;信息技术-it&#34;&gt;信息技术 IT
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;包含&lt;strong&gt;硬件、软件、网络&lt;/strong&gt;等各方面与信息技术相关的内容&lt;/li&gt;
+&lt;li&gt;部分内容可能会在LCNA Docs上同步显示&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;经济-eco&#34;&gt;经济 ECO
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;主要包含&lt;strong&gt;银行账户、境外支付、开支管理、简单投资和理财&lt;/strong&gt;这些我当下便能接触到的&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;不构成投资建议。&lt;/strong&gt; &lt;em&gt;市场有风险，投资需谨慎&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;交通-transit&#34;&gt;交通 Transit
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;主要是&lt;strong&gt;轨道交通&lt;/strong&gt;，偶尔会有&lt;strong&gt;公路&lt;/strong&gt;，少有&lt;strong&gt;水运&lt;/strong&gt;，鲜有&lt;strong&gt;航空&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;乘坐交通工具的用时&lt;strong&gt;视乎实际情况&lt;/strong&gt;而定，时效和可行性仅供参考！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;下面是许多链接&#34;&gt;下面是许多链接～
+&lt;/h3&gt;&lt;h4 id=&#34;aotra-wonglcna-和-六和中心-的网页&#34;&gt;Aotra Wong、LCNA 和 六和中心 的网页
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://lcna.cn&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;六和中心 Liuhe Center&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://docs.lcna.cn&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;LCNA Docs（此项目）&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://docs.lcna.cn/dps&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;LCNA Docs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://dps.lcna.cn&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;DPS/东莞开创Minecraft服务器&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;友情链接&#34;&gt;友情链接
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://bugduck.org&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;BugDuck Team&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://s4kura.cc&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;n1ghts4kura 夜樱&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://orangestd.cn&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;橙子の小站&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         </item>
         <item>
         <title>Hello World</title>
-        <link>http://localhost:1313/p/hello-world/</link>
+        <link>https://blog.lcna.cn/daily/helloworld/</link>
         <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/hello-world/</guid>
+        <guid>https://blog.lcna.cn/daily/helloworld/</guid>
         <description>&lt;h3 id=&#34;hello-world&#34;&gt;Hello World
 &lt;/h3&gt;&lt;h4 id=&#34;welcome-to-aotras-blog&#34;&gt;Welcome to Aotra&amp;rsquo;s Blog
 &lt;/h4&gt;&lt;h4 id=&#34;runnning-on-hugo-with-stack-theme-powered-by-cloudflare-pages&#34;&gt;Runnning on Hugo with Stack Theme, Powered by CloudFlare Pages
 &lt;/h4&gt;</description>
         </item>
         <item>
-        <title>连接线</title>
-        <link>http://localhost:1313/dps/prs/s_line/</link>
-        <pubDate>Sat, 22 Mar 2025 15:26:15 +0000</pubDate>
-        
-        <guid>http://localhost:1313/dps/prs/s_line/</guid>
-        <description>&lt;h2 id=&#34;连接线是由数条轨道组成的系统大多采用地下单轨行车设计部分会有所不同&#34;&gt;连接线是由数条轨道组成的系统，大多采用地下单轨行车设计，部分会有所不同。
-&lt;/h2&gt;&lt;h3 id=&#34;最后修改于20250425-saturday&#34;&gt;最后修改于：2025.04.25 Saturday
-&lt;/h3&gt;&lt;h4 id=&#34;s1中心纵线&#34;&gt;S1［中心纵线］：
-&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;中心南站 —畔湾—丽苑—主岛中—北山南&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;s1n中心北线&#34;&gt;S1N［中心北线］：
-&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;中心站—北山西—北山南—北山站&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;s1w-畔湾西支线&#34;&gt;S1W [畔湾西支线]：
-&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;畔湾-畔湾西&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;s2中心横线&#34;&gt;S2［中心横线］：
-&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;主岛西—溺尸塔—区管会—存储中心—中心站—主岛中—主岛东—主岛东南&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;s3湖心岛连接线&#34;&gt;S3［湖心岛连接线］：
-&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;滨湖互通-湖心岛&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;s3n北湖心岛支线&#34;&gt;S3N［北湖心岛支线］：
-&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;丽苑—主岛东南—北湖心岛—湖畔村&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;s4远古城市连接线&#34;&gt;S4［远古城市连接线］：
-&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;滨湖互通-远古城市上-远古城市中-远古城市地下-远古城市二期&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;s5西山连接线&#34;&gt;S5［西山连接线］：
-&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;西山北—西山开发区&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;s6山水连接线&#34;&gt;S6［山水连接线］：
-&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;山水枢纽—山水区管会-山水南&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;s6w-山水西线&#34;&gt;S6W [山水西线]：
-&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;平地岛-树林岛&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;s7文化区连接线&#34;&gt;S7［文化区连接线］：
-&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;文化区东-山水区委会-纪念堂-文化区换乘站-文化区北-存储中心南&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;s7w南村连接线&#34;&gt;S7W［南村连接线］：
-&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;南村—南村枢纽—文化区换乘站&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;s7n存储中心连接线&#34;&gt;S7N［存储中心连接线］：
-&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;存储中心南—中—北&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;s8东山连接线&#34;&gt;S8［东山连接线］：
-&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;新区南站—东山村-小岛-东山隧道北-东山隧道南—东山岛&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;s8w袭击村连接线&#34;&gt;S8W［袭击村连接线］：
-&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;袭击互通—袭击村—峡谷—小岛&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;s8e-东南连接线-待定&#34;&gt;S8E [东南连接线] ：待定
-&lt;/h4&gt;&lt;h4 id=&#34;s9待定&#34;&gt;S9：待定
-&lt;/h4&gt;&lt;h4 id=&#34;s10待定&#34;&gt;S10：待定
-&lt;/h4&gt;&lt;h4 id=&#34;s11新区纵线sn&#34;&gt;S11［新区纵线］S&amp;amp;N
-&lt;/h4&gt;&lt;h4 id=&#34;s12新区横线ew&#34;&gt;S12［新区横线］E&amp;amp;W
-&lt;/h4&gt;&lt;h4 id=&#34;s13新区南北横sn&#34;&gt;S13［新区南/北横］S&amp;amp;N
-&lt;/h4&gt;&lt;h4 id=&#34;s14新区东西纵ew&#34;&gt;S14［新区东/西纵］E&amp;amp;W
-&lt;/h4&gt;</description>
-        </item>
-        <item>
-        <title>公路&amp;大道</title>
-        <link>http://localhost:1313/dps/prs/road/</link>
-        <pubDate>Sat, 22 Mar 2025 00:26:15 +0000</pubDate>
-        
-        <guid>http://localhost:1313/dps/prs/road/</guid>
-        <description>&lt;h4 id=&#34;最后修改于-20250708-tuesday&#34;&gt;最后修改于 2025.07.08 Tuesday
-&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;斜线&lt;/em&gt; 表示未开通&lt;/strong&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;g1-滨海湾大道&#34;&gt;G1 滨海湾大道
-&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;全线采用快慢线设计，由以下部分组成：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;S101滨西通道&lt;/strong&gt;（东望洋立交-滨湖互通，全线）&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;S102湖心岛大道&lt;/strong&gt;（滨湖互通-东区立交，部分）&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Q1新海快速&lt;/strong&gt;（东区立交-新区东南，部分）&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;S105开创大道&lt;/strong&gt;（新区东南-新区西南，全线）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;s101-滨西通道由西向东&#34;&gt;S101 滨西通道（由西向东）：
-&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;采用快慢线设计，粗体标注的为快线出口&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;&lt;strong&gt;东望洋立交&lt;/strong&gt;&lt;/em&gt;（连接S301西湾大道、Q2西部快线）&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;海底神殿&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;管理中心（连接S103海龟公路 、Railway #1）&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;滨湖互通&lt;/strong&gt;（连接S102湖心岛大道、S107山启公路、S3湖心岛连接线、S4远古城市连接线）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;s102-湖心岛大道由西向东&#34;&gt;S102 湖心岛大道（由西向东）：
-&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;采用快慢线设计，粗体标注的为快线出口&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;滨湖互通&lt;/strong&gt;（连接S101滨西通道、S107山启公路、S3湖心岛连接线、S4远古城市连接线）&lt;/li&gt;
-&lt;li&gt;湖畔村（连接S3N北湖心岛支线）&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;袭击塔&lt;/strong&gt;（连接Railway #1）&lt;/li&gt;
-&lt;li&gt;袭击村（连接S8W袭击连接线）&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;东区西&lt;/em&gt;（连接S8东山连接线）&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;&lt;strong&gt;东区立交&lt;/strong&gt;&lt;/em&gt;（连接Q1新海快速）&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;东区东&lt;/em&gt;（连接S8E东南连接线）&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;&lt;strong&gt;启东西&lt;/strong&gt;&lt;/em&gt;（连接S401启东西线）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;s103-海龟公路由南向北&#34;&gt;S103 海龟公路（由南向北）：
-&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;采用双轨设计&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;海龟养殖中心&lt;/li&gt;
-&lt;li&gt;管理中心（连接S101滨西通道、Railway #1）&lt;/li&gt;
-&lt;li&gt;石地&lt;/li&gt;
-&lt;li&gt;沙角&lt;/li&gt;
-&lt;li&gt;立沙岛&lt;/li&gt;
-&lt;li&gt;畔湾西（连接S1W畔湾西支线）&lt;/li&gt;
-&lt;li&gt;临洋&lt;/li&gt;
-&lt;li&gt;中心站（连接S2中心横线、Railway #1）&lt;/li&gt;
-&lt;li&gt;二沙岛&lt;/li&gt;
-&lt;li&gt;主岛西&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;西山北&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;西山西&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;西区立交&lt;/em&gt;（连接S106北环公路）&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;小虎山&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;大虎山&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;s104-山水公路&#34;&gt;S104 山水公路
-&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;全线采用双轨设计&lt;/strong&gt;
-&lt;strong&gt;北段-N：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;远古城市枢纽&lt;/em&gt;（连接S4远古城市连接线）&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;山水枢纽&lt;/em&gt;（连接S9山水连接线）&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;存储中心北&lt;/em&gt;（连接S7N存储中心连接线）&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;山水北&lt;/em&gt;（连接Railway #1）&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;平地岛&lt;/em&gt;（连接S6W山水西线）&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;树林岛&lt;/em&gt;（连接S6W山水西线）&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;砂砾岛&lt;/em&gt;
-&lt;strong&gt;南段-S：&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;砂砾岛&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;南山西&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;南村&lt;/em&gt;（连接Railway #1、S7W南村连接线）&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;山水南&lt;/em&gt;（连接S6山水连接线）&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;山水沙村&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;沙城中&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;s105-北山公路&#34;&gt;S105 北山公路
-&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;全线采用双线设计&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;北山站&lt;/li&gt;
-&lt;li&gt;北山中&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;北山北&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;s106-北环公路&#34;&gt;S106 北环公路
-&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;全线采用双线设计&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;西区立交&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;西区中心&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;东区北&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;东区立交&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        </item>
-        <item>
         <title>滨海湾畔</title>
-        <link>http://localhost:1313/works/poem/bhwp/</link>
+        <link>https://blog.lcna.cn/works/poem/bhwp/</link>
         <pubDate>Sat, 08 Mar 2025 10:22:15 +0000</pubDate>
         
-        <guid>http://localhost:1313/works/poem/bhwp/</guid>
+        <guid>https://blog.lcna.cn/works/poem/bhwp/</guid>
         <description>&lt;p&gt;&lt;font size=5&gt;&lt;strong&gt;乘上小舟&lt;/strong&gt;&lt;/font&gt;&lt;br&gt;
 &lt;font size=5&gt;&lt;strong&gt;划起船桨&lt;/strong&gt;&lt;/font&gt;&lt;br&gt;
 &lt;font size=5&gt;&lt;strong&gt;水波激荡&lt;/strong&gt;&lt;/font&gt;&lt;br&gt;
@@ -431,10 +166,10 @@
         </item>
         <item>
         <title>南北连一线</title>
-        <link>http://localhost:1313/works/poem/nblyx/</link>
+        <link>https://blog.lcna.cn/works/poem/nblyx/</link>
         <pubDate>Sat, 08 Mar 2025 10:22:15 +0000</pubDate>
         
-        <guid>http://localhost:1313/works/poem/nblyx/</guid>
+        <guid>https://blog.lcna.cn/works/poem/nblyx/</guid>
         <description>&lt;h3 id=&#34;雪山&#34;&gt;雪山
 &lt;/h3&gt;&lt;p&gt;&lt;font size=5&gt;&lt;strong&gt;矗立在群山之中&lt;/strong&gt;&lt;/font&gt;&lt;br&gt;
 &lt;font size=5&gt;&lt;strong&gt;覆盖着皑皑白雪&lt;/strong&gt;&lt;/font&gt;&lt;br&gt;
@@ -473,141 +208,19 @@
 </description>
         </item>
         <item>
-        <title>DPS</title>
-        <link>http://localhost:1313/dpms/</link>
-        <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/dpms/</guid>
-        <description>&lt;h2 id=&#34;东莞开创minecraft服务器--dongguan-pioneers-minecraft-server&#34;&gt;东莞开创Minecraft服务器 / Dongguan Pioneers&amp;rsquo; Minecraft Server
-&lt;/h2&gt;&lt;h2 id=&#34;一个原版生电轨道交通服务器欢迎你的加入&#34;&gt;一个原版生电&amp;amp;轨道交通服务器，欢迎你的加入！
-&lt;/h2&gt;&lt;h3 id=&#34;由zhisheng担任服主在liuhe-center运行成立于july-2020&#34;&gt;由Zhisheng担任服主，在Liuhe Center运行，成立于July 2020
-&lt;/h3&gt;&lt;h3 id=&#34;dps文档-首页&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;../dps&#34; &gt;#DPS文档 首页&lt;/a&gt;
-&lt;/h3&gt;&lt;h4 id=&#34;下分章节&#34;&gt;下分章节：
-&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;../dps/plan&#34; &gt;发展规划（Plan）&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;../dps/history&#34; &gt;历史沿革（History）&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;../dps/prs&#34; &gt;开创铁路系统（PRS）&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;../dps/regions&#34; &gt;行政区划（Regions）&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;!--Learn more and contribute on [GitHub](https://github.com/gohugoio).
-</description>
-        </item>
-        <item>
         <title>归档</title>
-        <link>http://localhost:1313/archives/</link>
+        <link>https://blog.lcna.cn/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/archives/</guid>
+        <guid>https://blog.lcna.cn/archives/</guid>
         <description></description>
         </item>
         <item>
-        <title>Railway #1 新龙线</title>
-        <link>http://localhost:1313/dps/prs/railways/1/</link>
-        <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
-        
-        <guid>http://localhost:1313/dps/prs/railways/1/</guid>
-        <description>&lt;h3 id=&#34;railway-1-新龙线-new-loong-linenll于dps-20重新规划南北贯穿新界-滨海湾-龙门-三市&#34;&gt;Railway #1 新龙线 New Loong Line（NLL）于DPS 2.0重新规划，南北贯穿新界-滨海湾-龙门 三市
-&lt;/h3&gt;&lt;h3 id=&#34;目前已开通区间中心bhc-蘑菇岛北min8个车站逾4000格&#34;&gt;目前已开通区间：中心（BHC）—— 蘑菇岛北（MIN），8个车站，逾4000格
-&lt;/h3&gt;&lt;hr&gt;
-&lt;h2 id=&#34;已开通车站由北向南&#34;&gt;已开通车站（由北向南）：
-&lt;/h2&gt;&lt;h3 id=&#34;南一期&#34;&gt;南一期:
-&lt;/h3&gt;&lt;h4 id=&#34;1中心-bhc&#34;&gt;1.中心 BHC
-&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;转乘 S2 新区横线、S103 海龟公路&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;2中心南-bcs&#34;&gt;2.中心南 BCS
-&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;转乘 S1 中心纵线&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;3管理中心-bmc&#34;&gt;3.管理中心 BMC
-&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;转乘 S101 滨海大道、S103 海龟公路&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;南二期&#34;&gt;南二期：
-&lt;/h3&gt;&lt;h4 id=&#34;4山水北-ssn&#34;&gt;4.山水北 SSN
-&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;转乘 S104N 山水公路-北段&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;5南村-svz&#34;&gt;5.南村 SVZ
-&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;转乘 S7W 南村连接线、S104S 山水公路-南段&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;6沙漠北-smn&#34;&gt;6.沙漠北 SMN
-&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;（暂无道路接驳）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;7沙漠南-sms&#34;&gt;7.沙漠南 SMS
-&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;转乘 S201 沙城公路&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;8蘑菇岛北-mgn&#34;&gt;8.蘑菇岛北 MGN
-&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;（暂无道路接驳）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;修建规划中的车站&#34;&gt;修建、规划中的车站：
-&lt;/h2&gt;&lt;h3 id=&#34;南三期&#34;&gt;南三期：
-&lt;/h3&gt;&lt;h4 id=&#34;蘑菇岛南-mgs&#34;&gt;蘑菇岛南 MGS
-&lt;/h4&gt;&lt;h4 id=&#34;海洋-noz&#34;&gt;海洋 NOZ
-&lt;/h4&gt;&lt;h3 id=&#34;北段&#34;&gt;北段：
-&lt;/h3&gt;&lt;h4 id=&#34;西区北-wrn&#34;&gt;西区北 WRN
-&lt;/h4&gt;&lt;h4 id=&#34;龙门-lmz&#34;&gt;龙门 LMZ
-&lt;/h4&gt;&lt;h4 id=&#34;林地府邸-fmz&#34;&gt;林地府邸 FMZ
-&lt;/h4&gt;</description>
-        </item>
-        <item>
-        <title>Railway #2 西雪线</title>
-        <link>http://localhost:1313/dps/prs/railways/2/</link>
-        <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
-        
-        <guid>http://localhost:1313/dps/prs/railways/2/</guid>
-        <description>&lt;h3 id=&#34;railway-2-西雪线-west-snow-linewsl是dps的第二条长途铁路东西贯穿龙门-滨海湾-西湾-三市&#34;&gt;Railway #2 西雪线 West Snow Line（WSL）是DPS的第二条长途铁路，东西贯穿龙门-滨海湾-西湾 三市。
-&lt;/h3&gt;&lt;h3 id=&#34;目前已开通区间中心bhc-东区西min4个车站逾2000格&#34;&gt;目前已开通区间：中心（BHC）—— 东区西（MIN），4个车站，逾2000格
-&lt;/h3&gt;&lt;h2 id=&#34;已开通车站由东向西&#34;&gt;已开通车站（由东向西）：
-&lt;/h2&gt;&lt;h3 id=&#34;东段&#34;&gt;东段：
-&lt;/h3&gt;&lt;h4 id=&#34;1东区西-erc&#34;&gt;1.东区西 ERC
-&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;转乘 S8 东山连接线&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;2袭击塔-xjt&#34;&gt;2.袭击塔 XJT
-&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;转乘 S102 湖心岛大道&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;3北山-nmz&#34;&gt;3.北山 NMZ
-&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;转乘 S1N 中心北线&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;4中心-bhc&#34;&gt;4.中心 BHC
-&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;换乘 R1、S103海龟公路、S2中心横线&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;修建规划中的车站&#34;&gt;修建、规划中的车站：
-&lt;/h2&gt;&lt;h3 id=&#34;西段&#34;&gt;西段：
-&lt;/h3&gt;&lt;h4 id=&#34;西区南-wrs&#34;&gt;西区南 WRS
-&lt;/h4&gt;&lt;h4 id=&#34;江北东-rne&#34;&gt;江北东 RNE
-&lt;/h4&gt;&lt;h4 id=&#34;江北西-rnw&#34;&gt;江北西 RNW
-&lt;/h4&gt;&lt;h3 id=&#34;东段-1&#34;&gt;东段：
-&lt;/h3&gt;&lt;h4 id=&#34;北正东-bze&#34;&gt;北正东 BZE
-&lt;/h4&gt;&lt;h4 id=&#34;爱心岛南-lis&#34;&gt;爱心岛南 LIS
-&lt;/h4&gt;&lt;h4 id=&#34;雪山-smz&#34;&gt;雪山 SMZ
-&lt;/h4&gt;</description>
-        </item>
-        <item>
-        <title>地狱快速</title>
-        <link>http://localhost:1313/dps/prs/h_line/</link>
-        <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
-        
-        <guid>http://localhost:1313/dps/prs/h_line/</guid>
-        <description>&lt;h3 id=&#34;hx地狱快速是在地狱中直接连接两个地点的轨道位于基岩上层由于地狱移动1格等于在主世界移动8格所以可以粗略地认为速度是主世界中轨道的8倍&#34;&gt;Hx/地狱快速是在地狱中直接连接两个地点的轨道（位于基岩上层），由于地狱移动1格等于在主世界移动8格，所以可以粗略地认为速度是主世界中轨道的8倍！
-&lt;/h3&gt;&lt;h4 id=&#34;h1-中心-猪灵堡垒末地要塞&#34;&gt;H1 中心-猪灵堡垒（末地要塞）
-&lt;/h4&gt;&lt;h4 id=&#34;h2-中心-地狱堡垒&#34;&gt;H2 中心-地狱堡垒
-&lt;/h4&gt;</description>
-        </item>
-        <item>
         <title>搜索</title>
-        <link>http://localhost:1313/search/</link>
+        <link>https://blog.lcna.cn/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/search/</guid>
+        <guid>https://blog.lcna.cn/search/</guid>
         <description></description>
         </item>
         

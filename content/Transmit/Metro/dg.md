@@ -1,9 +1,10 @@
----
-title: "东莞轨道交通"
-date: 2017-10-17T15:26:15Z
-draft: false
-weight: 40
----
++++
+title = "东莞轨道交通"
+date = 2017-10-17T15:26:15Z
+draft = false
+weight = 40
+menu = "main"
++++
 
 ## 东莞轨道交通（Dongguan Rail Transit），目前运营以下线路
 ### 二号线 / Line 2 （已于2016/05/27开通段）：
