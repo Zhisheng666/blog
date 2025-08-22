@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Ecoes on Aotra Wong</title>
+        <link>https://blog.lcna.cn/eco/</link>
+        <description>Recent content in Ecoes on Aotra Wong</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Aotra Wong</copyright>
+        <lastBuildDate>Fri, 22 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.lcna.cn/eco/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>广发银行Lucky借记卡</title>
+        <link>https://blog.lcna.cn/eco/bank/cgblucky/</link>
+        <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.lcna.cn/eco/bank/cgblucky/</guid>
+        <description>&lt;h3 id=&#34;广发银行lucky借记卡&#34;&gt;广发银行Lucky借记卡
+&lt;/h3&gt;&lt;h4 id=&#34;基本信息&#34;&gt;基本信息：
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;卡组织和对应等级：&lt;strong&gt;美国运通&lt;/strong&gt;（运通中国 人民币借记卡）&lt;strong&gt;Member&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;卡BIN：&lt;strong&gt;370330&lt;/strong&gt;（BIN Check显示为&lt;strong&gt;Business Credit&lt;/strong&gt;）&lt;/li&gt;
+&lt;li&gt;申请方式：建议在&lt;strong&gt;广发银行手机APP&lt;/strong&gt;申请，&lt;strong&gt;EMS快递到家&lt;/strong&gt;（完全免费！）亲临网点未必有，而邮寄到网点会慢一点，甚至可能会在分行停留几个工作日&lt;/li&gt;
+&lt;li&gt;办理条件：就相当于是一张普通的受一二类限制的储蓄卡，&lt;strong&gt;16岁以上并且有自己的身份证&amp;amp;名下号码便无需家长陪同&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;权益&#34;&gt;权益：
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;卡组织：运通中国Member匹配的权益，比如：
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;天星小轮 HKD 1 一程！！！&lt;/strong&gt;（孩子最喜欢的一个）&lt;/li&gt;
+&lt;li&gt;香港7-11满20返5（CNY）&lt;/li&gt;
+&lt;li&gt;亚洲地区返现2%（只要大于CNY 1都有！）&lt;/li&gt;
+&lt;li&gt;九巴至高一程返CNY 3（别忘了用同一张卡本身是可以支持）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;广发银行：见广发APP/官网（没什么很有用的）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;境内使用&#34;&gt;境内使用：
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;线上：
+&lt;ul&gt;
+&lt;li&gt;在受支持的平台，&lt;strong&gt;和普通银联卡无异&lt;/strong&gt;（比如微信支付、支付宝、美团等等）&lt;/li&gt;
+&lt;li&gt;可以&lt;strong&gt;正常接收银行转账&lt;/strong&gt;，并且大概率能自动识别广发银行/中国广发银行/广东发展银行（一个意思）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;线下：&lt;strong&gt;不够普及&lt;/strong&gt;，新设备支持率略高，在大城市支持好过小城市，麦当劳理论上可以用（没有优惠我还真不乐意用&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;境外使用&#34;&gt;境外使用：
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;通用：&lt;strong&gt;冻结120%左右的余额&lt;/strong&gt;，请确保资金足够，一般在一到两周内解冻额外部分&lt;/li&gt;
+&lt;li&gt;线下：
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;取现不免手续费&lt;/strong&gt;，故没有测试（CNY 15一次来着）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;支持拍卡&lt;/strong&gt;，已在7-11、惠康、香港摩天轮、九巴等测试通过&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;不支持设定NFC支付&lt;/strong&gt;，包括国内厂商、Apple Pay、Google Pay、Samsung Pay在内的所有&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;线上：
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;不支持3DS&lt;/strong&gt;，故部分强制验证的平台无法使用&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;不支持GPT Plus订阅&lt;/strong&gt;，这玩意必须支持地区的卡才行，港卡也不行&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;支持&lt;/strong&gt;港区Play Store和Google Wallet（其他地区未测试，后者仅限在线支付）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;支持&lt;/strong&gt;香港麦当劳APP（有一说一上面经常有优惠）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;支持&lt;/strong&gt;爱彼迎以港币计价（比直接用人民币便宜个差不多2%的样子吧）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;白嫖可行性：Google Cloud Platform和Oracle Cloud均可以！&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

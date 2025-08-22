@@ -53,6 +53,10 @@ permalinks:
 params:
     mainSections:
         - post
+        - eco
+        - transmit
+        - works
+        - daily
     featuredImageField: image
     rssFullContent: true
     favicon: # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
@@ -179,6 +183,15 @@ params:
                   limit: 10
         page:
             - type: toc
+        enabled:
+            - search
+            - archives
+            - tag-cloud
+        archives:
+            limit: 5
+
+        tagCloud:
+            limit: 10
 
     opengraph:
         twitter:

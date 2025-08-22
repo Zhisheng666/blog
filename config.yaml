@@ -118,6 +118,16 @@ params:
             id:
 
     widgets:
+        enabled:
+            - search
+            - archives
+            - tag-cloud
+
+        archives:
+            limit: 5
+
+        tagCloud:
+            limit: 10
         homepage: []
         page: []
 
