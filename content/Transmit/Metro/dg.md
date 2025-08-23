@@ -26,7 +26,7 @@ menu = "main"
 #### 12 寮厦（Liao Xia）
 #### 13 珊美（Shan Mei）
 #### 14 展览中心（Exhibition Center）
-#### 15 东莞火车站（Humen Railway Station）
+#### 15 虎门火车站（Humen Railway Station）
 * 可换乘 广深港高铁-虎门站
 * 可换乘 穗深城际铁路-虎门北站
 * 向南延伸 二号线三期
