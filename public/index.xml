@@ -7,7 +7,7 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Aotra Wong</copyright>
-        <lastBuildDate>Sun, 24 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.lcna.cn/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 27 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.lcna.cn/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>东莞轨道交通</title>
         <link>https://blog.lcna.cn/transmit/metro/dg/</link>
         <pubDate>Mon, 14 Jul 2025 15:26:15 +0000</pubDate>
@@ -88,6 +88,72 @@
         <guid>https://blog.lcna.cn/transmit/metro/main/</guid>
         <description>&lt;h3 id=&#34;东莞轨道交通-dongguan-rail-transit&#34;&gt;东莞轨道交通 Dongguan Rail Transit
 &lt;/h3&gt;</description>
+        </item>
+        <item>
+        <title>Apple MacBook Air M1</title>
+        <link>https://blog.lcna.cn/it/device/mbam1/</link>
+        <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.lcna.cn/it/device/mbam1/</guid>
+        <description>&lt;h3 id=&#34;aotra-认证的移动设备&#34;&gt;Aotra 认证的移动设备：
+&lt;/h3&gt;&lt;p&gt;注：本页面所有内容均以我手上设备为准，因不同地区版本或有差异&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;节能长续航&lt;/strong&gt;：能源之星认证，中国能源标识1级，Blog更新12h！&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;便携易使用&lt;/strong&gt;：1.29kg重量&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;性能满足工作流&lt;/strong&gt;：M1芯片搭配16G内存，轻松运行多任务&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;价格亦美丽&lt;/strong&gt;：2025年7月，¥2400购入（美版，带有配置锁），同期参考行情¥3000&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;购买缘故&#34;&gt;购买缘故：
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;我老早就想买一台笔记本了（早在小学二年级吧），但是以前怕被轻松没收，所以选择的台式机（最多收走电源线就算了）。期间我也用过我弟的 Lenovo S41-35 ，这玩意让我刷新了对电脑的认识，16年的A6处理器，当年是学霸专用的代言词来着。&lt;/li&gt;
+&lt;li&gt;我的两位舍友计划上网课，而正好我朋友要在AdventureX 2025上大展身手（给他拿到奖金了），可他却没有笔记本，我就逐步考虑了采购，正好我手头上也有一定的资金。而我又未曾正式用过macOS，那么干脆买台MacBook吧。我权衡了利弊，最终选定了搭载M1芯片的MacBook Air 2020。&lt;/li&gt;
+&lt;li&gt;在当年，M系列芯片面临着巨大考验：一切都是新的，兼容性是否会有不妥？五年后的今天，发现Intel平台的Mac的尾声将至。M1是跨时代的产品，在这之前的民用的桌面端ARM芯片少之又少，用户根本多不起来，没有多少人愿意为之而适配，可是M1芯片设备的推出，打破了这一局面。苹果在科技领域多次作为“领军人”，它一动，大家都跟着，比如蓝牙耳机，这一点我们必须承认。&lt;/li&gt;
+&lt;li&gt;2025年7月，MAcBook Air M1 16+256G 美版（带监管锁）以 ¥2400 购于海鲜市场&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;硬件信息&#34;&gt;硬件信息：
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;芯片：Apple M1 芯片
+&lt;ul&gt;
+&lt;li&gt;8 核中央处理器(CPU)，具有 4 个性能核心和 4 个能效核心&lt;/li&gt;
+&lt;li&gt;7 核图形处理器(GPU)&lt;/li&gt;
+&lt;li&gt;16 核神经网络引擎(NPU)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;内存：&lt;strong&gt;16G 统一内存&lt;/strong&gt;（标配为8G，不太推荐）&lt;/li&gt;
+&lt;li&gt;硬盘：&lt;strong&gt;256G 固态硬盘&lt;/strong&gt;（可选配：512GB、1TB 或 2TB）&lt;/li&gt;
+&lt;li&gt;电力：
+&lt;ul&gt;
+&lt;li&gt;电池：49.9Wh，至高支持约40W功率充电&lt;/li&gt;
+&lt;li&gt;续航：30%亮度下，VSCode更新Blog续航可达超10h&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;显示：
+&lt;ul&gt;
+&lt;li&gt;内置：&lt;strong&gt;13.3&amp;quot; 2560 x 1600&lt;/strong&gt;（227 ppi）视网膜显示屏（IPS），400nits亮度&lt;/li&gt;
+&lt;li&gt;外接：一台分辨率最高达 6K (60Hz) 的外接显示器（USB-C或经转换器）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;接口：
+&lt;ul&gt;
+&lt;li&gt;两个&lt;strong&gt;USB 4&lt;/strong&gt;接口（40Gbps），均支持充电、DP视频传输，向下兼容雷电3、USB 3.1&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;em&gt;极其先进&lt;/em&gt;的3.5mm耳机（二合一）接口&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;输入：
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;78键妙控键盘&lt;/strong&gt;，带有可调节的&lt;strong&gt;背光&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;非常好用的触控板&lt;/strong&gt;，支持&lt;strong&gt;压力感应&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Touch ID&lt;/strong&gt;，与电源按钮集成&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;720P摄像头&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;三麦克风阵列&lt;/strong&gt;，支持&lt;strong&gt;定向波束成形&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;扬声器：立体声，支持全景声播放&lt;/li&gt;
+&lt;li&gt;详见&lt;a class=&#34;link&#34; href=&#34;https://support.apple.com/zh-cn/111883&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://support.apple.com/zh-cn/111883&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
         </item>
         <item>
         <title>广发银行鱼跃龙门借记卡（白金）</title>
