@@ -31,3 +31,7 @@ menu = "main"
 * [BugDuck Team](https://bugduck.org)
 * [n1ghts4kura 夜樱](https://s4kura.cc)
 * [橙子の小站](https://orangestd.cn)
+
+### 下面是联系方式～
+#### 电子邮箱：
+* aotra@lcna.cn

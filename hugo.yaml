@@ -57,6 +57,7 @@ params:
         - transmit
         - works
         - daily
+        - it
     featuredImageField: image
     rssFullContent: true
     favicon: # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
