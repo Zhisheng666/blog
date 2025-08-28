@@ -7,7 +7,57 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Aotra Wong</copyright>
-        <lastBuildDate>Wed, 27 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.lcna.cn/it/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 28 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.lcna.cn/it/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Windows 10 LTSC 2019</title>
+        <link>https://blog.lcna.cn/it/system/windows10ltsc2019/</link>
+        <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.lcna.cn/it/system/windows10ltsc2019/</guid>
+        <description>&lt;h3 id=&#34;aotra-推荐用于-个人计算机-的-桌面操作系统&#34;&gt;Aotra 推荐用于 个人计算机 的 桌面操作系统
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;简洁低占用&lt;/strong&gt;，经过测试，开机仅占用1.8G内存，对于内存较小的设备来说能运行得了更多程序，也就能进一步延长设备使用周期&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;预装应用少&lt;/strong&gt;，这意味着你可以更轻松地使用你所喜爱的第三方程序，例如FireFox，而非Edge&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;安全更新长&lt;/strong&gt;，不同于其他版本（包括LTSC 2021）的Windows 10，安全更新将于今年10月停止，微软承诺为LTSC 2019提供长达十年的安全更新，即支持到2028年&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;兼容性尚可&lt;/strong&gt;，等同于普通的1909版本，已经相当完善，仍然满足大多数除专业领域外的新版软件的使用，例如Chrome，及一系列采用Electron的程序（如Steam）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;目标用户&#34;&gt;目标用户
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;设备较旧&lt;/strong&gt;，不支持Windows 11或使用新版系统卡顿&lt;/li&gt;
+&lt;li&gt;不需要 Microsoft Store、Xbox 等UWP应用&lt;/li&gt;
+&lt;li&gt;有Windows 10的需求，并且希望仍能获得安全更新&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;讨厌Windows上的Edge&lt;/strong&gt;，因为它能让CPU和硬盘100%
+Tips：建议使用该系统对应的配置，不太建议强求使用Adobe全家桶等的新版了，因为你可能需要更新硬件以加速工作&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;系统获取安装&#34;&gt;系统获取&amp;amp;安装
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;获取：
+&lt;ul&gt;
+&lt;li&gt;作为普通用户，请到&lt;a class=&#34;link&#34; href=&#34;https://next.itellyou.cn&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;next.itellyou.cn&lt;/a&gt;下载。这是一个免费又好用的原版系统&amp;amp;软件下载站！&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;del&gt;作为MSDN订阅用户，请到微软相关网页下载&lt;/del&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;安装：
+&lt;ul&gt;
+&lt;li&gt;你可以直接在Windows下解压系统镜像，运行&lt;em&gt;setup.exe&lt;/em&gt;来安装**（不推荐）**&lt;/li&gt;
+&lt;li&gt;也可以刻录到DVD光盘、U盘或者其他合适的介质，并从其引导，以进行&lt;em&gt;原汁原味&lt;/em&gt;的Windows安装&lt;/li&gt;
+&lt;li&gt;更可以先启动到PE，再使用Dism++或类似软件来 &lt;em&gt;“恢复系统”&lt;/em&gt; 到硬盘上，重启后直接来到OOBE阶段**（推荐）**&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;注：请使用md5或同类技术对文件进行&lt;strong&gt;校验&lt;/strong&gt;，以防止下载&lt;strong&gt;出现错误/文件被篡改&lt;/strong&gt;！&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;使用&#34;&gt;使用
+&lt;/h3&gt;&lt;p&gt;&lt;em&gt;OOBE阶段略，你可以在此过程设定语言、输入法、用户名、密码等&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;一般来说，LTSC版本不会为所有硬件都自动安装驱动程序，即便安装了功能也或有缺失，比如显卡驱动没有控制面板。请访问&lt;strong&gt;设备制造商、硬件厂商网站&lt;/strong&gt;或者使用&lt;strong&gt;合适的工具&lt;/strong&gt;以安装所需的驱动&lt;/li&gt;
+&lt;li&gt;由于过于精简，并未安装除IE外的浏览器。建议你安装如&lt;strong&gt;FireFox、Chrome&lt;/strong&gt;等现代化的浏览器，以优化你的上网体验。如非必要，不建议使用IE&lt;/li&gt;
+&lt;li&gt;你可能会发现Windows Defender过于烦人，要解决它，建议安装轻量级的杀毒软件来接管，而不是直接将防护关闭，这有利于保障安全&lt;/li&gt;
+&lt;li&gt;要恢复&lt;em&gt;Microsoft Store&lt;/em&gt;，可以在&lt;em&gt;PowerShell&lt;/em&gt;中输入&lt;em&gt;winset -r&lt;/em&gt;，但目前此版本下的商店已经无法工作，不必浪费空间&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;剩下的还请您自行探索～&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
         <title>Apple MacBook Air M1</title>
         <link>https://blog.lcna.cn/it/device/mbam1/</link>
         <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
