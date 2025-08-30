@@ -7,7 +7,7 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Aotra Wong</copyright>
-        <lastBuildDate>Thu, 28 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.lcna.cn/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 30 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.lcna.cn/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>东莞轨道交通</title>
         <link>https://blog.lcna.cn/transmit/metro/dg/</link>
         <pubDate>Mon, 14 Jul 2025 15:26:15 +0000</pubDate>
@@ -88,6 +88,93 @@
         <guid>https://blog.lcna.cn/transmit/metro/main/</guid>
         <description>&lt;h3 id=&#34;东莞轨道交通-dongguan-rail-transit&#34;&gt;东莞轨道交通 Dongguan Rail Transit
 &lt;/h3&gt;</description>
+        </item>
+        <item>
+        <title>组一台家用数据中心</title>
+        <link>https://blog.lcna.cn/it/device/datac/</link>
+        <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.lcna.cn/it/device/datac/</guid>
+        <description>&lt;h2 id=&#34;前言&#34;&gt;前言
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;组数据中心，就不能用普通电脑的思维了&lt;/li&gt;
+&lt;li&gt;首先要考虑的是&lt;strong&gt;需求&lt;/strong&gt;，由此来&lt;strong&gt;决定预算&lt;/strong&gt;，有事用手头上闲置的或者 &lt;em&gt;&lt;strong&gt;意想不到&lt;/strong&gt;&lt;/em&gt; 的设备或许更合适&lt;/li&gt;
+&lt;li&gt;其次是&lt;strong&gt;预算&lt;/strong&gt;，要分开两部分，一部分是硬盘，另一部分是其他硬件&lt;/li&gt;
+&lt;li&gt;请对&lt;strong&gt;功率和电费&lt;/strong&gt;有所概念。正常情况下，一块硬盘差不多10W，按四块硬盘来算，那一天就一度电了，按¥0.75/度计算，&lt;strong&gt;一年差不多要300块钱&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;所以如果你并没有太多数据需要&lt;strong&gt;实时读取&lt;/strong&gt;，那么让它们&lt;strong&gt;定期通电&lt;/strong&gt;也不失为一个好方法（就像 &lt;em&gt;&lt;strong&gt;磁带&lt;/strong&gt;&lt;/em&gt; 那样）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;选择硬盘&#34;&gt;选择硬盘
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;如果你的空间&lt;strong&gt;需求很小&lt;/strong&gt;，随便一块盘就可以了（甚至可以是内部存储空间、TF卡和U盘）&lt;/li&gt;
+&lt;li&gt;如果你的空间&lt;strong&gt;需求不算大&lt;/strong&gt;，并且使用习惯较好（常可靠备份），单盘16T也许都够了，完全没有必要上8T组Raid 5 / Raid Z1&lt;/li&gt;
+&lt;li&gt;如果你的&lt;strong&gt;数据量较大&lt;/strong&gt;，请务必使用带有“数据恢复”功能的软/硬件Raid功能，比如ZFS下的Raid Z、阵列卡的Raid 5/6（甚至更高），以保护你的数据&lt;/li&gt;
+&lt;li&gt;尽管如此，仍建议你 &lt;em&gt;&lt;strong&gt;遵循 3 2 1 备份法则&lt;/strong&gt;&lt;/em&gt; ，即三份文件，两种介质，一份异地&lt;/li&gt;
+&lt;li&gt;更多内容请查阅我的其他文章&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;类型&#34;&gt;类型
+&lt;/h2&gt;&lt;h3 id=&#34;品牌nas&#34;&gt;品牌NAS
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;除了贵，没毛病。常见的大牌子有群晖、QNAP、绿联等&lt;/li&gt;
+&lt;li&gt;你可以选择的从 &lt;em&gt;&lt;strong&gt;通过USB外接硬盘&lt;/strong&gt;&lt;/em&gt; 到 &lt;em&gt;&lt;strong&gt;一整个机柜&lt;/strong&gt;&lt;/em&gt; 的都有，请视乎钱包而行&lt;/li&gt;
+&lt;li&gt;品牌的优势在于使用方便，包括操作、内网穿透，以及最重要的服务支持&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;轻量设备&#34;&gt;轻量设备
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;你的需求是在 &lt;em&gt;&lt;strong&gt;“网络邻居”&lt;/strong&gt;&lt;/em&gt; 里面有一块能多个设备轻松共用的硬盘？&lt;em&gt;&lt;strong&gt;你并不是NAS的需求者……&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;以下几种方案省钱却又能满足你的需求：&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;路由器&#34;&gt;路由器
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;没想到吧，这也能做NAS。今年来的路由器大多带有USB接口，请 &lt;strong&gt;在线搜索/查阅说明书/登入管理后台&lt;/strong&gt; 确认 有无NAS功能，有的话仅需接上USB接口的存储介质，进行简单配置，打开相应开关，便可以了！&lt;/li&gt;
+&lt;li&gt;USB接口的存储介质可多了，比如&lt;strong&gt;U盘，移动硬盘&lt;/strong&gt;。你也可以使用 &lt;em&gt;&lt;strong&gt;“易驱线”&lt;/strong&gt;&lt;/em&gt; 来连接机械硬盘，其中3.5&amp;quot;的必须额外接上12V DC供电&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;旧手机&#34;&gt;旧手机
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;这个我相信你肯定有。建议使用&lt;strong&gt;Android&lt;/strong&gt;设备，改直通电源线（即去掉电池），能&lt;strong&gt;root&lt;/strong&gt;更好，此方法适合有一定动手能力的人&lt;/li&gt;
+&lt;li&gt;有大量的软件可以启动SMB共享，此处不列举，你可以使用内置储存、TF卡，或上文提到的，经USB接口的设备&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;共享&#34;&gt;共享
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;这就是在你常用的 &lt;em&gt;&lt;strong&gt;“我的电脑”&lt;/strong&gt;&lt;/em&gt; 里面的功能，打开它，就可以了！&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;优点&lt;/strong&gt;是不需要做任何额外的准备，&lt;strong&gt;缺点&lt;/strong&gt;是你不太可能让这台设备保持开启&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;小规模nas&#34;&gt;小规模NAS
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;对于&lt;strong&gt;一般家庭用户&lt;/strong&gt;而言，并不需要：放太多数据、跑太多程序、传太快文件&lt;/li&gt;
+&lt;li&gt;因此我提出以下几套配置，以供不同需求来参考。&lt;em&gt;关于NAS系统的选择，请看我的其他文章&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;1-j19004c4t但很弱--4-8g内存&#34;&gt;1. J1900（4C4T，但很弱） + 4-8G内存
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;满足千兆内网传输（跑软路由可能跑不满千兆）&lt;/li&gt;
+&lt;li&gt;上8G内存可以尝试开个vm来跑点小的程序，比如端口转发&lt;/li&gt;
+&lt;li&gt;如果有需求，J1900的核显可以用来硬件加速转码（下同）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;2-i3-71002c4t强于j1900--8g内存&#34;&gt;2. i3-7100（2C4T，强于J1900） + 8G内存
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;满足万兆内网传输 或 千兆软路由&lt;/li&gt;
+&lt;li&gt;可以划分2线程来开VM，跑点小的程序没问题&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;3-i3-91004c8t--16g内存&#34;&gt;3. i3-9100（4C8T） + 16G内存
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;满足超过万兆的内网传输&lt;/li&gt;
+&lt;li&gt;可以划分至多6线程和12G内存来开VM，跑个小型的Minecraft没有问题&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;4-i5-134006大4小16线程-32g内存&#34;&gt;4. i5-13400（6大4小，16线程）+ 32G内存
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;满足超过万兆的内网传输&lt;/li&gt;
+&lt;li&gt;使用合适的OS可以手动指定给VM分配的核心，这可不不会出现调度问题。你可以根据负载，分配合适的核心给VM（比如Minecraft服务器用大核的6线程，群晖用4个小核），来充分利用资源&lt;/li&gt;
+&lt;li&gt;你还可以启用显卡虚拟化，将核显拆分成多张，分别分配给不同的VM，比如同时可以给视频转码加速和让远程桌面流畅。请见我的其他文章&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;大规模服务器&#34;&gt;大规模服务器
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;&lt;strong&gt;暂时略过&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;总结&#34;&gt;总结
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;以上均为经验之谈，你需要根据实际情况（比如市场上的价格来做调整）&lt;/li&gt;
+&lt;li&gt;NAS这种东西啊，一定要量力而行，还挺烧钱的……&lt;/li&gt;
+&lt;/ul&gt;
+</description>
         </item>
         <item>
         <title>Windows 10 LTSC 2019</title>
