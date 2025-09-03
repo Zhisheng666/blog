@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Dailies on Aotra Wong</title>
-        <link>https://blog.lcna.cn/daily/</link>
+        <link>http://localhost:1313/daily/</link>
         <description>Recent content in Dailies on Aotra Wong</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Aotra Wong</copyright>
-        <lastBuildDate>Sun, 17 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.lcna.cn/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 17 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/daily/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Hello World</title>
-        <link>https://blog.lcna.cn/daily/helloworld/</link>
+        <link>http://localhost:1313/daily/helloworld/</link>
         <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.lcna.cn/daily/helloworld/</guid>
+        <guid>http://localhost:1313/daily/helloworld/</guid>
         <description>&lt;h3 id=&#34;hello-world&#34;&gt;Hello World
 &lt;/h3&gt;&lt;h4 id=&#34;welcome-to-aotras-blog&#34;&gt;Welcome to Aotra&amp;rsquo;s Blog
 &lt;/h4&gt;&lt;h4 id=&#34;runnning-on-hugo-with-stack-theme-powered-by-cloudflare-pages&#34;&gt;Runnning on Hugo with Stack Theme, Powered by CloudFlare Pages

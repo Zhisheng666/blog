@@ -1,8 +1,8 @@
 ---
 title: "地铁 Metro"
-date: 2017-10-17T15:26:15Z
+date: 2025-07-11T15:26:15Z
 draft: false
 weight: 40
 ---
 
-### 东莞轨道交通 Dongguan Rail Transit
+[东莞轨道交通 Dongguan Rail Transit](https://blog.lcna.cn/transmit/metro/dg)

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>欢迎来到 Aotra&#39;s Blog on Aotra Wong</title>
-        <link>https://blog.lcna.cn/</link>
+        <link>http://localhost:1313/</link>
         <description>Recent content in 欢迎来到 Aotra&#39;s Blog on Aotra Wong</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Aotra Wong</copyright>
-        <lastBuildDate>Sat, 30 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.lcna.cn/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 30 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>东莞轨道交通</title>
-        <link>https://blog.lcna.cn/transmit/metro/dg/</link>
+        <link>http://localhost:1313/transmit/metro/dg/</link>
         <pubDate>Mon, 14 Jul 2025 15:26:15 +0000</pubDate>
         
-        <guid>https://blog.lcna.cn/transmit/metro/dg/</guid>
+        <guid>http://localhost:1313/transmit/metro/dg/</guid>
         <description>&lt;h2 id=&#34;东莞轨道交通dongguan-rail-transit目前运营以下线路&#34;&gt;东莞轨道交通（Dongguan Rail Transit），目前运营以下线路
 &lt;/h2&gt;&lt;h3 id=&#34;二号线--line-2-已于20160527开通段&#34;&gt;二号线 / Line 2 （已于2016/05/27开通段）：
 &lt;/h3&gt;&lt;h4 id=&#34;01-东莞火车站dongguan-railway-station&#34;&gt;01 东莞火车站（Dongguan Railway Station）
@@ -82,19 +82,20 @@
         </item>
         <item>
         <title>地铁 Metro</title>
-        <link>https://blog.lcna.cn/transmit/metro/main/</link>
-        <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
+        <link>http://localhost:1313/transmit/metro/main/</link>
+        <pubDate>Fri, 11 Jul 2025 15:26:15 +0000</pubDate>
         
-        <guid>https://blog.lcna.cn/transmit/metro/main/</guid>
-        <description>&lt;h3 id=&#34;东莞轨道交通-dongguan-rail-transit&#34;&gt;东莞轨道交通 Dongguan Rail Transit
-&lt;/h3&gt;</description>
+        <guid>http://localhost:1313/transmit/metro/main/</guid>
+        <description>&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://blog.lcna.cn/transmit/metro/dg&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;东莞轨道交通 Dongguan Rail Transit&lt;/a&gt;&lt;/p&gt;
+</description>
         </item>
         <item>
         <title>组一台家用数据中心</title>
-        <link>https://blog.lcna.cn/it/device/datac/</link>
+        <link>http://localhost:1313/it/device/datac/</link>
         <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.lcna.cn/it/device/datac/</guid>
+        <guid>http://localhost:1313/it/device/datac/</guid>
         <description>&lt;h2 id=&#34;前言&#34;&gt;前言
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;组数据中心，就不能用普通电脑的思维了&lt;/li&gt;
@@ -178,10 +179,10 @@
         </item>
         <item>
         <title>Windows 10 LTSC 2019</title>
-        <link>https://blog.lcna.cn/it/system/windows10ltsc2019/</link>
+        <link>http://localhost:1313/it/system/windows10ltsc2019/</link>
         <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.lcna.cn/it/system/windows10ltsc2019/</guid>
+        <guid>http://localhost:1313/it/system/windows10ltsc2019/</guid>
         <description>&lt;h3 id=&#34;aotra-推荐用于-个人计算机-的-桌面操作系统&#34;&gt;Aotra 推荐用于 个人计算机 的 桌面操作系统
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;简洁低占用&lt;/strong&gt;，经过测试，开机仅占用1.8G内存，对于内存较小的设备来说能运行得了更多程序，也就能进一步延长设备使用周期&lt;/li&gt;
@@ -228,10 +229,10 @@ Tips：建议使用该系统对应的配置，不太建议强求使用Adobe全�
         </item>
         <item>
         <title>Apple MacBook Air M1</title>
-        <link>https://blog.lcna.cn/it/device/mbam1/</link>
+        <link>http://localhost:1313/it/device/mbam1/</link>
         <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.lcna.cn/it/device/mbam1/</guid>
+        <guid>http://localhost:1313/it/device/mbam1/</guid>
         <description>&lt;h3 id=&#34;aotra-认证的移动设备&#34;&gt;Aotra 认证的移动设备：
 &lt;/h3&gt;&lt;p&gt;注：本页面所有内容均以我手上设备为准，因不同地区版本或有差异&lt;/p&gt;
 &lt;ul&gt;
@@ -294,12 +295,12 @@ Tips：建议使用该系统对应的配置，不太建议强求使用Adobe全�
         </item>
         <item>
         <title>广发银行鱼跃龙门借记卡（白金）</title>
-        <link>https://blog.lcna.cn/eco/bank/cgblylm/</link>
+        <link>http://localhost:1313/eco/bank/cgblylm/</link>
         <pubDate>Sun, 24 Aug 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.lcna.cn/eco/bank/cgblylm/</guid>
+        <guid>http://localhost:1313/eco/bank/cgblylm/</guid>
         <description>&lt;h3 id=&#34;广发银行鱼跃龙门借记卡白金&#34;&gt;广发银行鱼跃龙门借记卡（白金）
-&lt;/h3&gt;&lt;img src=&#34;https://blog.lcna.cn/images/cgblylm.jpg&#34; width=&#34;250&#34; height=&#34;200&#34; alt=&#34;广发银行鱼跃龙门借记卡（白金）&#34; /&gt;
+&lt;/h3&gt;&lt;img src=&#34;http://localhost:1313/images/cgblylm.jpg&#34; width=&#34;250&#34; height=&#34;200&#34; alt=&#34;广发银行鱼跃龙门借记卡（白金）&#34; /&gt;
 &lt;h4 id=&#34;基本信息&#34;&gt;基本信息：
 &lt;/h4&gt;&lt;ul&gt;
 &lt;li&gt;卡组织和对应信息：&lt;strong&gt;万事达 MasterCard&lt;/strong&gt;（万事网联 人民币美元双币借记卡）&lt;strong&gt;Platinum 白金&lt;/strong&gt;&lt;/li&gt;
@@ -361,17 +362,17 @@ Tips：建议使用该系统对应的配置，不太建议强求使用Adobe全�
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;img src=&#34;https://blog.lcna.cn/images/cgblylm1.jpg&#34; width=&#34;250&#34; height=&#34;200&#34; alt=&#34;广发银行鱼跃龙门借记卡（白金）&#34; /&gt;
-&lt;img src=&#34;https://blog.lcna.cn/images/cgblylm2.jpg&#34; width=&#34;250&#34; height=&#34;200&#34; alt=&#34;广发银行鱼跃龙门借记卡（白金）&#34; /&gt;</description>
+&lt;img src=&#34;http://localhost:1313/images/cgblylm1.jpg&#34; width=&#34;250&#34; height=&#34;200&#34; alt=&#34;广发银行鱼跃龙门借记卡（白金）&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/images/cgblylm2.jpg&#34; width=&#34;250&#34; height=&#34;200&#34; alt=&#34;广发银行鱼跃龙门借记卡（白金）&#34; /&gt;</description>
         </item>
         <item>
         <title>广发银行Lucky借记卡</title>
-        <link>https://blog.lcna.cn/eco/bank/cgblucky/</link>
+        <link>http://localhost:1313/eco/bank/cgblucky/</link>
         <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.lcna.cn/eco/bank/cgblucky/</guid>
+        <guid>http://localhost:1313/eco/bank/cgblucky/</guid>
         <description>&lt;h3 id=&#34;广发银行lucky借记卡&#34;&gt;广发银行Lucky借记卡
-&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://blog.lcna.cn/images/cgblucky.jpg&#34;
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/cgblucky.jpg&#34;
 	
 	
 	
@@ -451,10 +452,10 @@ Tips：建议使用该系统对应的配置，不太建议强求使用Adobe全�
         </item>
         <item>
         <title>关于Aotra&#39;s Blog</title>
-        <link>https://blog.lcna.cn/about/</link>
+        <link>http://localhost:1313/about/</link>
         <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.lcna.cn/about/</guid>
+        <guid>http://localhost:1313/about/</guid>
         <description>&lt;h3 id=&#34;欢迎来到-aotras-blog&#34;&gt;欢迎来到 Aotra&amp;rsquo;s Blog!
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;由 &lt;strong&gt;Aotra Wong&lt;/strong&gt; 倾力打造，包含多方面的内容&lt;/li&gt;
@@ -509,10 +510,10 @@ Tips：建议使用该系统对应的配置，不太建议强求使用Adobe全�
         </item>
         <item>
         <title>Hello World</title>
-        <link>https://blog.lcna.cn/daily/helloworld/</link>
+        <link>http://localhost:1313/daily/helloworld/</link>
         <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.lcna.cn/daily/helloworld/</guid>
+        <guid>http://localhost:1313/daily/helloworld/</guid>
         <description>&lt;h3 id=&#34;hello-world&#34;&gt;Hello World
 &lt;/h3&gt;&lt;h4 id=&#34;welcome-to-aotras-blog&#34;&gt;Welcome to Aotra&amp;rsquo;s Blog
 &lt;/h4&gt;&lt;h4 id=&#34;runnning-on-hugo-with-stack-theme-powered-by-cloudflare-pages&#34;&gt;Runnning on Hugo with Stack Theme, Powered by CloudFlare Pages
@@ -520,10 +521,10 @@ Tips：建议使用该系统对应的配置，不太建议强求使用Adobe全�
         </item>
         <item>
         <title>滨海湾畔</title>
-        <link>https://blog.lcna.cn/works/poem/bhwp/</link>
+        <link>http://localhost:1313/works/poem/bhwp/</link>
         <pubDate>Sat, 08 Mar 2025 10:22:15 +0000</pubDate>
         
-        <guid>https://blog.lcna.cn/works/poem/bhwp/</guid>
+        <guid>http://localhost:1313/works/poem/bhwp/</guid>
         <description>&lt;p&gt;&lt;font size=4&gt;&lt;strong&gt;乘上小舟&lt;/strong&gt;&lt;/font&gt;&lt;br&gt;
 &lt;font size=4&gt;&lt;strong&gt;划起船桨&lt;/strong&gt;&lt;/font&gt;&lt;br&gt;
 &lt;font size=4&gt;&lt;strong&gt;水波激荡&lt;/strong&gt;&lt;/font&gt;&lt;br&gt;
@@ -540,10 +541,10 @@ Tips：建议使用该系统对应的配置，不太建议强求使用Adobe全�
         </item>
         <item>
         <title>南北连一线</title>
-        <link>https://blog.lcna.cn/works/poem/nblyx/</link>
+        <link>http://localhost:1313/works/poem/nblyx/</link>
         <pubDate>Sat, 08 Mar 2025 10:22:15 +0000</pubDate>
         
-        <guid>https://blog.lcna.cn/works/poem/nblyx/</guid>
+        <guid>http://localhost:1313/works/poem/nblyx/</guid>
         <description>&lt;h3 id=&#34;雪山&#34;&gt;雪山
 &lt;/h3&gt;&lt;p&gt;&lt;font size=5&gt;&lt;strong&gt;矗立在群山之中&lt;/strong&gt;&lt;/font&gt;&lt;br&gt;
 &lt;font size=5&gt;&lt;strong&gt;覆盖着皑皑白雪&lt;/strong&gt;&lt;/font&gt;&lt;br&gt;
@@ -583,18 +584,18 @@ Tips：建议使用该系统对应的配置，不太建议强求使用Adobe全�
         </item>
         <item>
         <title>归档</title>
-        <link>https://blog.lcna.cn/archives/</link>
+        <link>http://localhost:1313/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.lcna.cn/archives/</guid>
+        <guid>http://localhost:1313/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>搜索</title>
-        <link>https://blog.lcna.cn/search/</link>
+        <link>http://localhost:1313/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.lcna.cn/search/</guid>
+        <guid>http://localhost:1313/search/</guid>
         <description></description>
         </item>
         

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Works on Aotra Wong</title>
-        <link>https://blog.lcna.cn/works/</link>
+        <link>http://localhost:1313/works/</link>
         <description>Recent content in Works on Aotra Wong</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Aotra Wong</copyright>
-        <lastBuildDate>Sat, 08 Mar 2025 10:22:15 +0000</lastBuildDate><atom:link href="https://blog.lcna.cn/works/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 08 Mar 2025 10:22:15 +0000</lastBuildDate><atom:link href="http://localhost:1313/works/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>滨海湾畔</title>
-        <link>https://blog.lcna.cn/works/poem/bhwp/</link>
+        <link>http://localhost:1313/works/poem/bhwp/</link>
         <pubDate>Sat, 08 Mar 2025 10:22:15 +0000</pubDate>
         
-        <guid>https://blog.lcna.cn/works/poem/bhwp/</guid>
+        <guid>http://localhost:1313/works/poem/bhwp/</guid>
         <description>&lt;p&gt;&lt;font size=4&gt;&lt;strong&gt;乘上小舟&lt;/strong&gt;&lt;/font&gt;&lt;br&gt;
 &lt;font size=4&gt;&lt;strong&gt;划起船桨&lt;/strong&gt;&lt;/font&gt;&lt;br&gt;
 &lt;font size=4&gt;&lt;strong&gt;水波激荡&lt;/strong&gt;&lt;/font&gt;&lt;br&gt;
@@ -29,10 +29,10 @@
         </item>
         <item>
         <title>南北连一线</title>
-        <link>https://blog.lcna.cn/works/poem/nblyx/</link>
+        <link>http://localhost:1313/works/poem/nblyx/</link>
         <pubDate>Sat, 08 Mar 2025 10:22:15 +0000</pubDate>
         
-        <guid>https://blog.lcna.cn/works/poem/nblyx/</guid>
+        <guid>http://localhost:1313/works/poem/nblyx/</guid>
         <description>&lt;h3 id=&#34;雪山&#34;&gt;雪山
 &lt;/h3&gt;&lt;p&gt;&lt;font size=5&gt;&lt;strong&gt;矗立在群山之中&lt;/strong&gt;&lt;/font&gt;&lt;br&gt;
 &lt;font size=5&gt;&lt;strong&gt;覆盖着皑皑白雪&lt;/strong&gt;&lt;/font&gt;&lt;br&gt;

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Its on Aotra Wong</title>
-        <link>https://blog.lcna.cn/it/</link>
+        <link>http://localhost:1313/it/</link>
         <description>Recent content in Its on Aotra Wong</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Aotra Wong</copyright>
-        <lastBuildDate>Sat, 30 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.lcna.cn/it/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 30 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/it/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>组一台家用数据中心</title>
-        <link>https://blog.lcna.cn/it/device/datac/</link>
+        <link>http://localhost:1313/it/device/datac/</link>
         <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.lcna.cn/it/device/datac/</guid>
+        <guid>http://localhost:1313/it/device/datac/</guid>
         <description>&lt;h2 id=&#34;前言&#34;&gt;前言
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;组数据中心，就不能用普通电脑的思维了&lt;/li&gt;
@@ -96,10 +96,10 @@
         </item>
         <item>
         <title>Windows 10 LTSC 2019</title>
-        <link>https://blog.lcna.cn/it/system/windows10ltsc2019/</link>
+        <link>http://localhost:1313/it/system/windows10ltsc2019/</link>
         <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.lcna.cn/it/system/windows10ltsc2019/</guid>
+        <guid>http://localhost:1313/it/system/windows10ltsc2019/</guid>
         <description>&lt;h3 id=&#34;aotra-推荐用于-个人计算机-的-桌面操作系统&#34;&gt;Aotra 推荐用于 个人计算机 的 桌面操作系统
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;简洁低占用&lt;/strong&gt;，经过测试，开机仅占用1.8G内存，对于内存较小的设备来说能运行得了更多程序，也就能进一步延长设备使用周期&lt;/li&gt;
@@ -146,10 +146,10 @@ Tips：建议使用该系统对应的配置，不太建议强求使用Adobe全�
         </item>
         <item>
         <title>Apple MacBook Air M1</title>
-        <link>https://blog.lcna.cn/it/device/mbam1/</link>
+        <link>http://localhost:1313/it/device/mbam1/</link>
         <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.lcna.cn/it/device/mbam1/</guid>
+        <guid>http://localhost:1313/it/device/mbam1/</guid>
         <description>&lt;h3 id=&#34;aotra-认证的移动设备&#34;&gt;Aotra 认证的移动设备：
 &lt;/h3&gt;&lt;p&gt;注：本页面所有内容均以我手上设备为准，因不同地区版本或有差异&lt;/p&gt;
 &lt;ul&gt;
