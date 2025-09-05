@@ -2,70 +2,79 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/transmit/metro/dg/</loc>
+    <loc>https://blog.lcna.cn/transmit/metro/dg/</loc>
     <lastmod>2025-07-14T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/transmit/metro/main/</loc>
-    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
+    <loc>https://blog.lcna.cn/transmit/metro/main/</loc>
+    <lastmod>2025-07-11T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/transmit/</loc>
+    <loc>https://blog.lcna.cn/daily/</loc>
+    <lastmod>2025-09-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.lcna.cn/daily/dpsd/</loc>
+    <lastmod>2025-09-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.lcna.cn/eco/</loc>
+    <lastmod>2025-09-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.lcna.cn/eco/bank/youth/</loc>
+    <lastmod>2025-09-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.lcna.cn/transmit/</loc>
     <lastmod>2025-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/travel/</loc>
+    <loc>https://blog.lcna.cn/travel/</loc>
     <lastmod>2025-08-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/it/</loc>
+    <loc>https://blog.lcna.cn/travel/samshow2024/</loc>
+    <lastmod>2025-08-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.lcna.cn/it/</loc>
     <lastmod>2025-08-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/it/device/datac/</loc>
+    <loc>https://blog.lcna.cn/it/device/datac/</loc>
     <lastmod>2025-08-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/it/system/windows10ltsc2019/</loc>
+    <loc>https://blog.lcna.cn/it/system/windows10ltsc2019/</loc>
     <lastmod>2025-08-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/it/device/mbam1/</loc>
+    <loc>https://blog.lcna.cn/it/device/mbam1/</loc>
     <lastmod>2025-08-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/eco/</loc>
+    <loc>https://blog.lcna.cn/eco/bank/cgblylm/</loc>
     <lastmod>2025-08-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/eco/bank/cgblylm/</loc>
-    <lastmod>2025-08-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/eco/bank/cgblucky/</loc>
+    <loc>https://blog.lcna.cn/eco/bank/cgblucky/</loc>
     <lastmod>2025-08-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://blog.lcna.cn/about/</loc>
     <lastmod>2025-08-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://blog.lcna.cn/</loc>
     <lastmod>2025-08-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/daily/</loc>
+    <loc>https://blog.lcna.cn/daily/helloworld/</loc>
     <lastmod>2025-08-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/daily/helloworld/</loc>
-    <lastmod>2025-08-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/works/</loc>
+    <loc>https://blog.lcna.cn/works/</loc>
     <lastmod>2025-03-08T10:22:15+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/works/poem/bhwp/</loc>
+    <loc>https://blog.lcna.cn/works/poem/bhwp/</loc>
     <lastmod>2025-03-08T10:22:15+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/works/poem/nblyx/</loc>
+    <loc>https://blog.lcna.cn/works/poem/nblyx/</loc>
     <lastmod>2025-03-08T10:22:15+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/page/</loc>
+    <loc>https://blog.lcna.cn/page/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>https://blog.lcna.cn/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://blog.lcna.cn/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://blog.lcna.cn/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://blog.lcna.cn/search/</loc>
   </url>
 </urlset>

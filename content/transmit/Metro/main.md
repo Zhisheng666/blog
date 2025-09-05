@@ -5,4 +5,4 @@ draft: false
 weight: 40
 ---
 
-[东莞轨道交通 Dongguan Rail Transit](https://blog.lcna.cn/transmit/metro/dg)
+[东莞轨道交通 Dongguan Rail Transit](/transmit/metro/dg)

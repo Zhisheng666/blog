@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Its on Aotra Wong</title>
-        <link>http://localhost:1313/it/</link>
+        <link>https://blog.lcna.cn/it/</link>
         <description>Recent content in Its on Aotra Wong</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Aotra Wong</copyright>
-        <lastBuildDate>Sat, 30 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/it/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 30 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.lcna.cn/it/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>组一台家用数据中心</title>
-        <link>http://localhost:1313/it/device/datac/</link>
+        <link>https://blog.lcna.cn/it/device/datac/</link>
         <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/it/device/datac/</guid>
+        <guid>https://blog.lcna.cn/it/device/datac/</guid>
         <description>&lt;h2 id=&#34;前言&#34;&gt;前言
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;组数据中心，就不能用普通电脑的思维了&lt;/li&gt;
@@ -96,11 +96,11 @@
         </item>
         <item>
         <title>Windows 10 LTSC 2019</title>
-        <link>http://localhost:1313/it/system/windows10ltsc2019/</link>
+        <link>https://blog.lcna.cn/it/system/windows10ltsc2019/</link>
         <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/it/system/windows10ltsc2019/</guid>
-        <description>&lt;h3 id=&#34;aotra-推荐用于-个人计算机-的-桌面操作系统&#34;&gt;Aotra 推荐用于 个人计算机 的 桌面操作系统
+        <guid>https://blog.lcna.cn/it/system/windows10ltsc2019/</guid>
+        <description>&lt;h3 id=&#34;aotra-推荐用于个人计算机的桌面操作系统&#34;&gt;Aotra 推荐：用于个人计算机的桌面操作系统
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;简洁低占用&lt;/strong&gt;，经过测试，开机仅占用1.8G内存，对于内存较小的设备来说能运行得了更多程序，也就能进一步延长设备使用周期&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;预装应用少&lt;/strong&gt;，这意味着你可以更轻松地使用你所喜爱的第三方程序，例如FireFox，而非Edge&lt;/li&gt;
@@ -126,9 +126,9 @@ Tips：建议使用该系统对应的配置，不太建议强求使用Adobe全�
 &lt;/li&gt;
 &lt;li&gt;安装：
 &lt;ul&gt;
-&lt;li&gt;你可以直接在Windows下解压系统镜像，运行&lt;em&gt;setup.exe&lt;/em&gt;来安装**（不推荐）**&lt;/li&gt;
+&lt;li&gt;你可以直接在Windows下解压系统镜像，运行 &lt;em&gt;setup.exe&lt;/em&gt; 来安装 &lt;strong&gt;（不推荐）&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;也可以刻录到DVD光盘、U盘或者其他合适的介质，并从其引导，以进行&lt;em&gt;原汁原味&lt;/em&gt;的Windows安装&lt;/li&gt;
-&lt;li&gt;更可以先启动到PE，再使用Dism++或类似软件来 &lt;em&gt;“恢复系统”&lt;/em&gt; 到硬盘上，重启后直接来到OOBE阶段**（推荐）**&lt;/li&gt;
+&lt;li&gt;更可以先启动到PE，再使用Dism++或类似软件来 &lt;em&gt;“恢复系统”&lt;/em&gt; 到硬盘上，重启后直接来到OOBE阶段 &lt;strong&gt;（推荐）&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;em&gt;注：请使用md5或同类技术对文件进行&lt;strong&gt;校验&lt;/strong&gt;，以防止下载&lt;strong&gt;出现错误/文件被篡改&lt;/strong&gt;！&lt;/em&gt;&lt;/li&gt;
@@ -138,18 +138,18 @@ Tips：建议使用该系统对应的配置，不太建议强求使用Adobe全�
 &lt;ul&gt;
 &lt;li&gt;一般来说，LTSC版本不会为所有硬件都自动安装驱动程序，即便安装了功能也或有缺失，比如显卡驱动没有控制面板。请访问&lt;strong&gt;设备制造商、硬件厂商网站&lt;/strong&gt;或者使用&lt;strong&gt;合适的工具&lt;/strong&gt;以安装所需的驱动&lt;/li&gt;
 &lt;li&gt;由于过于精简，并未安装除IE外的浏览器。建议你安装如&lt;strong&gt;FireFox、Chrome&lt;/strong&gt;等现代化的浏览器，以优化你的上网体验。如非必要，不建议使用IE&lt;/li&gt;
-&lt;li&gt;你可能会发现Windows Defender过于烦人，要解决它，建议安装轻量级的杀毒软件来接管，而不是直接将防护关闭，这有利于保障安全&lt;/li&gt;
-&lt;li&gt;要恢复&lt;em&gt;Microsoft Store&lt;/em&gt;，可以在&lt;em&gt;PowerShell&lt;/em&gt;中输入&lt;em&gt;winset -r&lt;/em&gt;，但目前此版本下的商店已经无法工作，不必浪费空间&lt;/li&gt;
+&lt;li&gt;你可能会发现 &lt;em&gt;Windows Defender&lt;/em&gt; 过于烦人，要解决它，建议安装轻量级的杀毒软件来接管，而不是直接将防护关闭，这有利于保障安全&lt;/li&gt;
+&lt;li&gt;要恢复 &lt;em&gt;Microsoft Store&lt;/em&gt;，可以在 &lt;em&gt;PowerShell&lt;/em&gt; 中输入 &lt;em&gt;winset -r&lt;/em&gt; ，但目前此版本下的商店已经无法工作，不必浪费空间&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;剩下的还请您自行探索～&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         </item>
         <item>
         <title>Apple MacBook Air M1</title>
-        <link>http://localhost:1313/it/device/mbam1/</link>
+        <link>https://blog.lcna.cn/it/device/mbam1/</link>
         <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/it/device/mbam1/</guid>
+        <guid>https://blog.lcna.cn/it/device/mbam1/</guid>
         <description>&lt;h3 id=&#34;aotra-认证的移动设备&#34;&gt;Aotra 认证的移动设备：
 &lt;/h3&gt;&lt;p&gt;注：本页面所有内容均以我手上设备为准，因不同地区版本或有差异&lt;/p&gt;
 &lt;ul&gt;

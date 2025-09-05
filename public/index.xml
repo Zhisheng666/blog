@@ -2,100 +2,264 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>欢迎来到 Aotra&#39;s Blog on Aotra Wong</title>
-        <link>http://localhost:1313/</link>
+        <link>https://blog.lcna.cn/</link>
         <description>Recent content in 欢迎来到 Aotra&#39;s Blog on Aotra Wong</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Aotra Wong</copyright>
-        <lastBuildDate>Sat, 30 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 05 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.lcna.cn/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>东莞轨道交通</title>
-        <link>http://localhost:1313/transmit/metro/dg/</link>
+        <link>https://blog.lcna.cn/transmit/metro/dg/</link>
         <pubDate>Mon, 14 Jul 2025 15:26:15 +0000</pubDate>
         
-        <guid>http://localhost:1313/transmit/metro/dg/</guid>
-        <description>&lt;h2 id=&#34;东莞轨道交通dongguan-rail-transit目前运营以下线路&#34;&gt;东莞轨道交通（Dongguan Rail Transit），目前运营以下线路
-&lt;/h2&gt;&lt;h3 id=&#34;二号线--line-2-已于20160527开通段&#34;&gt;二号线 / Line 2 （已于2016/05/27开通段）：
-&lt;/h3&gt;&lt;h4 id=&#34;01-东莞火车站dongguan-railway-station&#34;&gt;01 东莞火车站（Dongguan Railway Station）
-&lt;/h4&gt;&lt;ul&gt;
+        <guid>https://blog.lcna.cn/transmit/metro/dg/</guid>
+        <description>&lt;p&gt;东莞轨道交通（Dongguan Rail Transit），目前运营以下线路&lt;/p&gt;
+&lt;h2 id=&#34;二号线--line-2&#34;&gt;二号线 / Line 2
+&lt;/h2&gt;&lt;h3 id=&#34;已于20160527开通段东莞火车站-虎门火车站&#34;&gt;已于2016/05/27开通段（东莞火车站-虎门火车站）：
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;01 东莞火车站（Dongguan Railway Station）
+&lt;ul&gt;
 &lt;li&gt;可换乘 广深铁路-东莞站（城际、高速和普速铁路）&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id=&#34;02-茶山chan-shan&#34;&gt;02 茶山（Chan Shan）
-&lt;/h4&gt;&lt;h4 id=&#34;03-榴花公园liuhua-park&#34;&gt;03 榴花公园（Liuhua Park）
-&lt;/h4&gt;&lt;h4 id=&#34;04-下桥xia-qiao&#34;&gt;04 下桥（Xia Qiao）
-&lt;/h4&gt;&lt;h4 id=&#34;05-天宝tian-bao&#34;&gt;05 天宝（Tian Bao）
-&lt;/h4&gt;&lt;h4 id=&#34;06-东城dong-chen&#34;&gt;06 东城（Dong Chen）
-&lt;/h4&gt;&lt;h4 id=&#34;07-旗峰公园qifeng-park&#34;&gt;07 旗峰公园（Qifeng Park）
-&lt;/h4&gt;&lt;h4 id=&#34;08-鸿福路hongfu-rd&#34;&gt;08 鸿福路（Hongfu Rd.）
-&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;将于一号线开通时改名为市民中心（Civic Center）&lt;/li&gt;
-&lt;li&gt;可换乘 一号线/Line 1&lt;/li&gt;
+&lt;/li&gt;
+&lt;li&gt;02 茶山（Chan Shan）&lt;/li&gt;
+&lt;li&gt;03 榴花公园（Liuhua Park）&lt;/li&gt;
+&lt;li&gt;04 下桥（Xia Qiao）&lt;/li&gt;
+&lt;li&gt;05 天宝（Tian Bao）&lt;/li&gt;
+&lt;li&gt;06 东城（Dong Chen）&lt;/li&gt;
+&lt;li&gt;07 旗峰公园（Qifeng Park）&lt;/li&gt;
+&lt;li&gt;08 鸿福路（Hongfu Rd.）
+&lt;ul&gt;
+&lt;li&gt;将于一号线开通时改名为 &lt;em&gt;&lt;strong&gt;市民中心&lt;/strong&gt;&lt;/em&gt; &lt;em&gt;（Civic Center）&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;可换乘 &lt;strong&gt;一号线/Line 1&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id=&#34;09-西平xi-ping&#34;&gt;09 西平（Xi Ping）
-&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;可换乘 广惠广肇铁路-西平站（由广东城际运营）&lt;/li&gt;
+&lt;/li&gt;
+&lt;li&gt;09 西平（Xi Ping）
+&lt;ul&gt;
+&lt;li&gt;可换乘 &lt;strong&gt;广惠广肇铁路-西平站&lt;/strong&gt; &lt;em&gt;（由广东城际运营）&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id=&#34;10-蛤地ge-di&#34;&gt;10 蛤地（Ge Di）
-&lt;/h4&gt;&lt;h4 id=&#34;11-陈屋chen-wu&#34;&gt;11 陈屋（Chen Wu）
-&lt;/h4&gt;&lt;h4 id=&#34;12-寮厦liao-xia&#34;&gt;12 寮厦（Liao Xia）
-&lt;/h4&gt;&lt;h4 id=&#34;13-珊美shan-mei&#34;&gt;13 珊美（Shan Mei）
-&lt;/h4&gt;&lt;h4 id=&#34;14-展览中心exhibition-center&#34;&gt;14 展览中心（Exhibition Center）
-&lt;/h4&gt;&lt;h4 id=&#34;15-虎门火车站humen-railway-station&#34;&gt;15 虎门火车站（Humen Railway Station）
-&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;可换乘 广深港高铁-虎门站&lt;/li&gt;
-&lt;li&gt;可换乘 穗深城际铁路-虎门北站&lt;/li&gt;
+&lt;/li&gt;
+&lt;li&gt;10 蛤地（Ge Di）&lt;/li&gt;
+&lt;li&gt;11 陈屋（Chen Wu）&lt;/li&gt;
+&lt;li&gt;12 寮厦（Liao Xia）&lt;/li&gt;
+&lt;li&gt;13 珊美（Shan Mei）&lt;/li&gt;
+&lt;li&gt;14 展览中心（Exhibition Center）&lt;/li&gt;
+&lt;li&gt;15 虎门火车站（Humen Railway Station）
+&lt;ul&gt;
+&lt;li&gt;可换乘 &lt;strong&gt;广深港高铁-虎门站&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;可换乘 &lt;strong&gt;穗深城际铁路-虎门北站&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;向南延伸 二号线三期&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;二号线三期南延段预计于2026年年底通车&#34;&gt;二号线三期（南延段）预计于2026年年底通车：
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;二号线三期南延段预计于2026年年底通车&#34;&gt;二号线三期（南延段）预计于2026年年底通车
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;（略）&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;一号线--line-1-预计于2025年年中通车&#34;&gt;一号线 / Line 1 预计于2025年年中通车
-&lt;/h3&gt;&lt;h4 id=&#34;01-东莞西站dongguanxi-railway-station&#34;&gt;01 东莞西站（DongguanXi Railway Station）
-&lt;/h4&gt;&lt;ul&gt;
+&lt;h2 id=&#34;一号线--line-1-预计于2025年年中通车&#34;&gt;一号线 / Line 1 预计于2025年年中通车
+&lt;/h2&gt;&lt;p&gt;2025.09.04 已有媒体试乘坐&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;01 东莞西站（DongguanXi Railway Station）
+&lt;ul&gt;
 &lt;li&gt;可换乘 穗深城际铁路、广惠城际铁路&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id=&#34;02-厚德hou-de&#34;&gt;02 厚德（Hou De）
-&lt;/h4&gt;&lt;h4 id=&#34;03-昌平chang-ping&#34;&gt;03 昌平（Chang Ping）
-&lt;/h4&gt;&lt;h4 id=&#34;04-人民医院peoples-hospital&#34;&gt;04 人民医院（People&amp;rsquo;s Hospital）
-&lt;/h4&gt;&lt;h4 id=&#34;05-曲海qu-hai&#34;&gt;05 曲海（Qu Hai）
-&lt;/h4&gt;&lt;h4 id=&#34;06-坝头ba-tou&#34;&gt;06 坝头（Ba Tou）
-&lt;/h4&gt;&lt;h4 id=&#34;07-元美yuan-mei&#34;&gt;07 元美（Yuan Mei）
-&lt;/h4&gt;&lt;h4 id=&#34;08-中心广场central-square&#34;&gt;08 中心广场（Central Square）
-&lt;/h4&gt;&lt;h4 id=&#34;09-市民中心citizen-center&#34;&gt;09 市民中心（Citizen Center）
-&lt;/h4&gt;&lt;h4 id=&#34;10-立新li-xin&#34;&gt;10 立新（Li Xin）
-&lt;/h4&gt;&lt;h4 id=&#34;11-东城南dong-cheng-south&#34;&gt;11 东城南（Dong Cheng South）
-&lt;/h4&gt;&lt;h4 id=&#34;12-同沙公园tong-sha-park&#34;&gt;12 同沙公园（Tong Sha Park）
-&lt;/h4&gt;&lt;h4 id=&#34;13-牛山niu-shan&#34;&gt;13 牛山（Niu Shan）
-&lt;/h4&gt;&lt;h4 id=&#34;14-连平lian-ping&#34;&gt;14 连平（Lian Ping）
-&lt;/h4&gt;&lt;h4 id=&#34;15-大岭山da-ling-shan&#34;&gt;15 大岭山（Da Ling Shan）
-&lt;/h4&gt;&lt;h4 id=&#34;16-金桔jin-ji&#34;&gt;16 金桔（Jin Ji）
-&lt;/h4&gt;&lt;h4 id=&#34;17-广东医大gdmu&#34;&gt;17 广东医大（GDMU）
-&lt;/h4&gt;&lt;h4 id=&#34;18-松山湖ssl&#34;&gt;18 松山湖（SSL）
-&lt;/h4&gt;&lt;h4 id=&#34;19-松佛song-fo&#34;&gt;19 松佛（Song Fo）
-&lt;/h4&gt;&lt;h4 id=&#34;20-大朗da-lang&#34;&gt;20 大朗（Da Lang）
-&lt;/h4&gt;&lt;h4 id=&#34;21-荔香公园li-xiang-park&#34;&gt;21 荔香公园（Li Xiang Park）
-&lt;/h4&gt;&lt;h4 id=&#34;22-凤山feng-shan&#34;&gt;22 凤山（Feng Shan）
-&lt;/h4&gt;&lt;h4 id=&#34;23-黄江huang-jiang&#34;&gt;23 黄江（Huang Jiang）
-&lt;/h4&gt;&lt;h4 id=&#34;24-黄牛浦huang-niu-pu&#34;&gt;24 黄牛浦（Huang Niu Pu）
-&lt;/h4&gt;&lt;h4 id=&#34;25-梅塘mei-tang&#34;&gt;25 梅塘（Mei Tang）
-&lt;/h4&gt;</description>
-        </item>
-        <item>
-        <title>地铁 Metro</title>
-        <link>http://localhost:1313/transmit/metro/main/</link>
-        <pubDate>Fri, 11 Jul 2025 15:26:15 +0000</pubDate>
-        
-        <guid>http://localhost:1313/transmit/metro/main/</guid>
-        <description>&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://blog.lcna.cn/transmit/metro/dg&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;东莞轨道交通 Dongguan Rail Transit&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;02 厚德（Hou De）&lt;/li&gt;
+&lt;li&gt;03 昌平（Chang Ping）&lt;/li&gt;
+&lt;li&gt;04 人民医院（People&amp;rsquo;s Hospital）&lt;/li&gt;
+&lt;li&gt;05 曲海（Qu Hai）&lt;/li&gt;
+&lt;li&gt;06 坝头（Ba Tou）&lt;/li&gt;
+&lt;li&gt;07 元美（Yuan Mei）&lt;/li&gt;
+&lt;li&gt;08 中心广场（Central Square）&lt;/li&gt;
+&lt;li&gt;09 市民中心（Citizen Center）&lt;/li&gt;
+&lt;li&gt;10 立新（Li Xin）&lt;/li&gt;
+&lt;li&gt;11 东城南（Dong Cheng South）&lt;/li&gt;
+&lt;li&gt;12 同沙公园（Tong Sha Park）&lt;/li&gt;
+&lt;li&gt;13 牛山（Niu Shan）&lt;/li&gt;
+&lt;li&gt;14 连平（Lian Ping）&lt;/li&gt;
+&lt;li&gt;15 大岭山（Da Ling Shan）&lt;/li&gt;
+&lt;li&gt;16 金桔（Jin Ji）&lt;/li&gt;
+&lt;li&gt;17 广东医大（GDMU）&lt;/li&gt;
+&lt;li&gt;18 松山湖（SSL）&lt;/li&gt;
+&lt;li&gt;19 松佛（Song Fo）&lt;/li&gt;
+&lt;li&gt;20 大朗（Da Lang）&lt;/li&gt;
+&lt;li&gt;21 荔香公园（Li Xiang Park）&lt;/li&gt;
+&lt;li&gt;22 凤山（Feng Shan）&lt;/li&gt;
+&lt;li&gt;23 黄江（Huang Jiang）&lt;/li&gt;
+&lt;li&gt;24 黄牛浦（Huang Niu Pu）&lt;/li&gt;
+&lt;li&gt;25 梅塘（Mei Tang）&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         </item>
         <item>
+        <title>地铁 Metro</title>
+        <link>https://blog.lcna.cn/transmit/metro/main/</link>
+        <pubDate>Fri, 11 Jul 2025 15:26:15 +0000</pubDate>
+        
+        <guid>https://blog.lcna.cn/transmit/metro/main/</guid>
+        <description>&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://blog.lcna.cn/transmit/metro/dg&#34; &gt;东莞轨道交通 Dongguan Rail Transit&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>DPS 主岛建筑规划集</title>
+        <link>https://blog.lcna.cn/daily/dpsd/</link>
+        <pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.lcna.cn/daily/dpsd/</guid>
+        <description>&lt;h2 id=&#34;关于dps&#34;&gt;关于DPS
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;东莞开创 Minecraft 服务器&lt;/strong&gt; &lt;em&gt;（Dongguan Pioneers&amp;rsquo;s Minecraft Server）&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;详见 &lt;a class=&#34;link&#34; href=&#34;https://docs.lcna.cn/dps&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;DPS文档&lt;/a&gt;（在 &lt;strong&gt;LCNA Docs&lt;/strong&gt; ）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;中心区综合大楼&#34;&gt;中心区综合大楼
+&lt;/h2&gt;&lt;p&gt;&lt;em&gt;&lt;del&gt;原来的那是什么玩意&lt;/del&gt;&lt;/em&gt;，我想了想凳子的结构，不如就把原来的区管会大楼当作一条腿，接着搭一个平面，再向上搭建几层。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;由A楼（东南/已有）、B楼（西南）、C楼（西北）、综合公园、高层构成&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;a楼&#34;&gt;A楼
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;B1&lt;/em&gt; 接 &lt;strong&gt;S2 中心横线&lt;/strong&gt; 出入口&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;1F&lt;/em&gt; 设 &lt;strong&gt;地图、公告板&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;2F&lt;/em&gt; 设 &lt;strong&gt;中心区管会&lt;/strong&gt;办公室&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;b楼&#34;&gt;B楼
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;1F&lt;/em&gt; 设 &lt;strong&gt;会客厅&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;2F&lt;/em&gt; 设 &lt;strong&gt;第一会议室&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;c楼&#34;&gt;C楼
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;B1&lt;/em&gt; 接 &lt;strong&gt;S2 中心横线&lt;/strong&gt; 出入口&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;1F&lt;/em&gt; 设 &lt;strong&gt;“机房”&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;2F&lt;/em&gt; 接 &lt;strong&gt;S2N 综合支线&lt;/strong&gt; 出入口&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;综合公园&#34;&gt;综合公园
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;DPS 的 第一个公园，与综合大楼融为一体&lt;/li&gt;
+&lt;li&gt;你可以想象到的&lt;strong&gt;树木、水池、花园&lt;/strong&gt;等&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;高层&#34;&gt;高层
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;3F&lt;/em&gt; &lt;strong&gt;中心会议厅&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;4F&lt;/em&gt; &lt;strong&gt;中心展览馆&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;5F&lt;/em&gt; &lt;strong&gt;中心展览馆&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>面向16&amp;17周岁青年的用卡指南</title>
+        <link>https://blog.lcna.cn/eco/bank/youth/</link>
+        <pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.lcna.cn/eco/bank/youth/</guid>
+        <description>&lt;h2 id=&#34;前情提要&#34;&gt;前情提要
+&lt;/h2&gt;&lt;p&gt;由Aotra Wong编写的，面向16&amp;amp;17周岁青年的用卡指南&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;如无特别指出，则要求：&lt;strong&gt;年满16周岁&lt;/strong&gt;，有&lt;strong&gt;自己名下&lt;/strong&gt;的电话卡 或 有&lt;strong&gt;家长陪同&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;对于&lt;strong&gt;未满16周岁&lt;/strong&gt;的，必须带上家长，此处的信息或有帮助&lt;/li&gt;
+&lt;li&gt;对于&lt;strong&gt;已满18周岁&lt;/strong&gt;的，此处的信息仍有一定价值，只是你不需要家长来陪着你了&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;法律责任&#34;&gt;法律责任
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;绝对不要&lt;/strong&gt; 出借或者出售你的银行卡或电话卡。这或将会导致：
+&lt;ul&gt;
+&lt;li&gt;你和家长一起去派出所喝茶&lt;/li&gt;
+&lt;li&gt;你的两卡在一段时间内都无法被使用&lt;/li&gt;
+&lt;li&gt;帮你办理业务的工作人员受到处罚&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;金钱管理&#34;&gt;金钱管理
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;学会用钱&lt;/strong&gt; 确保你的资金被你妥善使用
+&lt;ul&gt;
+&lt;li&gt;买合适的，而非贵的东西&lt;/li&gt;
+&lt;li&gt;反对攀比 和 不必要的浪费&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;存住闲钱&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;将相对闲置的资金用于获取利息，比如最简单银行存款&lt;/li&gt;
+&lt;li&gt;放在活期利率很低，蓝绿两家的余额更是没有利息&lt;/li&gt;
+&lt;li&gt;在Alipay的&lt;strong&gt;余额宝&lt;/strong&gt;16周岁便可以开户（接触门槛最低的理财产品），利率参考一般银行的3个月-1年的定期（但是既然是&lt;strong&gt;理财产品&lt;/strong&gt;就可能有风险，只是到现在为止都未曾出现负利率）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;最推荐办理&#34;&gt;最推荐办理
+&lt;/h2&gt;&lt;h3 id=&#34;银联-unionpay&#34;&gt;银联 UnionPay
+&lt;/h3&gt;&lt;h4 id=&#34;中国工商银行-icbc-e时代借记卡&#34;&gt;中国工商银行 ICBC e时代借记卡
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;免收 年费、低余额账户管理费&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;限额高，默认开I类&lt;/strong&gt;，我什么也没做一开通就是日限¥20K（挺夸张的）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;无需家长便可以开通转账功能&lt;/strong&gt;（要慎防诈骗哦）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;需要开卡费¥20&lt;/strong&gt;（对于非经典的e时代的借记卡，经典的¥10）
+&lt;ul&gt;
+&lt;li&gt;卡面根据自己喜好来，因为你可能会发现：加到手机Pay里面都是经典的e时代。。。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;招商银行-cmb-各种各样的联名普卡&#34;&gt;招商银行 CMB 各种各样的联名普卡
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;免收 年费、低余额账户管理费&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;限额较高，默认开I类&lt;/strong&gt;，视乎网点和个人情况初始日限额¥3000或5000&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;无需开卡费&lt;/strong&gt;，不论是花嫁、皮卡丘还是愤怒的小鸟等。请提前预约/确认该网点有无对应卡板&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;转账受限制&lt;/strong&gt;，需要监护人亲临网点才能开启&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;进阶的理财&lt;/strong&gt;，和监护人一起亲临网点完成风险评估，便可以购买各种理财产品&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;广东限定志愿者证多家银行&#34;&gt;【广东限定】志愿者证（多家银行）
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;目前有 &lt;strong&gt;中国银行、中国工商银行、中国光大银行、平安银行、兴业银行&lt;/strong&gt; 共5家银行合作。其中，仅&lt;strong&gt;兴业银行&lt;/strong&gt;有电子卡（无实体卡），你可以任选一家&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;免收开卡费、年费、低余额账户管理费&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;此卡还享有多项权益&lt;/strong&gt;，请访问&lt;a class=&#34;link&#34; href=&#34;https://www.izyz.org/card&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;广东i志愿&lt;/a&gt;查询&lt;/li&gt;
+&lt;li&gt;各种潜在的&lt;strong&gt;限制&lt;/strong&gt; 视乎各银行和网点具体情况而定（比如中行惯例月限¥1K）&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;strong&gt;Aotra Wong 于 2024/07 测试，东莞的光大银行在办理时手机号可以是家长名下的，并且家长无需亲临现场。使用此方法前几个月限制非柜面，后来可能会自动解除&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;万事网联-mastercard有人民币账户&#34;&gt;万事网联 MasterCard（有人民币账户）
+&lt;/h3&gt;&lt;h4 id=&#34;请等我慢慢更新&#34;&gt;（请等我慢慢更新）
+&lt;/h4&gt;</description>
+        </item>
+        <item>
+        <title>许冠杰 此时此处 2024 演唱会</title>
+        <link>https://blog.lcna.cn/travel/samshow2024/</link>
+        <pubDate>Sun, 31 Aug 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.lcna.cn/travel/samshow2024/</guid>
+        <description>&lt;h2 id=&#34;part-0&#34;&gt;Part 0
+&lt;/h2&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;“俯首低问/何时何方何模样 / 回音轻传/此时此处此模样”&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;时间&amp;amp;地点： &lt;strong&gt;2024.03.30 Sat. 香港红磡体育馆&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;part-1-演唱会&#34;&gt;Part 1. 演唱会
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;如果你是粤语地区的人，那么你一定知道 &lt;strong&gt;许冠杰（Sam Hui）&lt;/strong&gt;，并且听过他的歌。&lt;/li&gt;
+&lt;li&gt;过年都会放的 &lt;strong&gt;《财神到》&lt;/strong&gt; 最为经典；可能是最久远的 &lt;strong&gt;《铁塔凌云》&lt;/strong&gt; 开创粤语歌时代；属于每一个在外拼搏的人的 &lt;strong&gt;《浪子心声》&lt;/strong&gt; ……&lt;/li&gt;
+&lt;li&gt;在他的第一个粤语歌专辑&lt;strong&gt;发布50周年&lt;/strong&gt;之时，他还能开演唱会，这绝非为了赚钱，而是为了让更多的人能够亲临现场听一听Sam唱歌。这也体现了&lt;strong&gt;香港人拼搏和不服老&lt;/strong&gt;的精神&lt;/li&gt;
+&lt;li&gt;演唱会本身的过程大致略，因为你需要&lt;strong&gt;亲临演唱会现场&lt;/strong&gt;才能感受到。视频效果不够震撼，私自录像并且传播亦会违反相关规定&lt;/li&gt;
+&lt;li&gt;从晚上9点开始，经历了两次encore（加时）到约十一点半，尽管大家都不舍得，但还是得结束了。我希望2026年下半年能再访问红馆，再听一次Sam的演唱会，这次我得买前排！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;part-2-交通&#34;&gt;Part 2. 交通
+&lt;/h2&gt;&lt;p&gt;没错我拿的折叠单车可以上地铁和高铁！&lt;/p&gt;
+&lt;h3 id=&#34;330-sat&#34;&gt;3.30 Sat.
+&lt;/h3&gt;&lt;h4 id=&#34;内地部分&#34;&gt;内地部分
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;早上放学后，骑单车到鸿福路地铁站，乘坐东莞R2至虎门站&lt;/li&gt;
+&lt;li&gt;乘坐复兴号高铁至福田站&lt;/li&gt;
+&lt;li&gt;骑单车到不远的住所放行李&lt;/li&gt;
+&lt;li&gt;从岗厦进站，在大剧院1转2，到达莲塘口岸，步行过关&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;香港部分&#34;&gt;香港部分
+&lt;/h4&gt;</description>
+        </item>
+        <item>
         <title>组一台家用数据中心</title>
-        <link>http://localhost:1313/it/device/datac/</link>
+        <link>https://blog.lcna.cn/it/device/datac/</link>
         <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/it/device/datac/</guid>
+        <guid>https://blog.lcna.cn/it/device/datac/</guid>
         <description>&lt;h2 id=&#34;前言&#34;&gt;前言
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;组数据中心，就不能用普通电脑的思维了&lt;/li&gt;
@@ -179,11 +343,11 @@
         </item>
         <item>
         <title>Windows 10 LTSC 2019</title>
-        <link>http://localhost:1313/it/system/windows10ltsc2019/</link>
+        <link>https://blog.lcna.cn/it/system/windows10ltsc2019/</link>
         <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/it/system/windows10ltsc2019/</guid>
-        <description>&lt;h3 id=&#34;aotra-推荐用于-个人计算机-的-桌面操作系统&#34;&gt;Aotra 推荐用于 个人计算机 的 桌面操作系统
+        <guid>https://blog.lcna.cn/it/system/windows10ltsc2019/</guid>
+        <description>&lt;h3 id=&#34;aotra-推荐用于个人计算机的桌面操作系统&#34;&gt;Aotra 推荐：用于个人计算机的桌面操作系统
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;简洁低占用&lt;/strong&gt;，经过测试，开机仅占用1.8G内存，对于内存较小的设备来说能运行得了更多程序，也就能进一步延长设备使用周期&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;预装应用少&lt;/strong&gt;，这意味着你可以更轻松地使用你所喜爱的第三方程序，例如FireFox，而非Edge&lt;/li&gt;
@@ -209,9 +373,9 @@ Tips：建议使用该系统对应的配置，不太建议强求使用Adobe全�
 &lt;/li&gt;
 &lt;li&gt;安装：
 &lt;ul&gt;
-&lt;li&gt;你可以直接在Windows下解压系统镜像，运行&lt;em&gt;setup.exe&lt;/em&gt;来安装**（不推荐）**&lt;/li&gt;
+&lt;li&gt;你可以直接在Windows下解压系统镜像，运行 &lt;em&gt;setup.exe&lt;/em&gt; 来安装 &lt;strong&gt;（不推荐）&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;也可以刻录到DVD光盘、U盘或者其他合适的介质，并从其引导，以进行&lt;em&gt;原汁原味&lt;/em&gt;的Windows安装&lt;/li&gt;
-&lt;li&gt;更可以先启动到PE，再使用Dism++或类似软件来 &lt;em&gt;“恢复系统”&lt;/em&gt; 到硬盘上，重启后直接来到OOBE阶段**（推荐）**&lt;/li&gt;
+&lt;li&gt;更可以先启动到PE，再使用Dism++或类似软件来 &lt;em&gt;“恢复系统”&lt;/em&gt; 到硬盘上，重启后直接来到OOBE阶段 &lt;strong&gt;（推荐）&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;em&gt;注：请使用md5或同类技术对文件进行&lt;strong&gt;校验&lt;/strong&gt;，以防止下载&lt;strong&gt;出现错误/文件被篡改&lt;/strong&gt;！&lt;/em&gt;&lt;/li&gt;
@@ -221,18 +385,18 @@ Tips：建议使用该系统对应的配置，不太建议强求使用Adobe全�
 &lt;ul&gt;
 &lt;li&gt;一般来说，LTSC版本不会为所有硬件都自动安装驱动程序，即便安装了功能也或有缺失，比如显卡驱动没有控制面板。请访问&lt;strong&gt;设备制造商、硬件厂商网站&lt;/strong&gt;或者使用&lt;strong&gt;合适的工具&lt;/strong&gt;以安装所需的驱动&lt;/li&gt;
 &lt;li&gt;由于过于精简，并未安装除IE外的浏览器。建议你安装如&lt;strong&gt;FireFox、Chrome&lt;/strong&gt;等现代化的浏览器，以优化你的上网体验。如非必要，不建议使用IE&lt;/li&gt;
-&lt;li&gt;你可能会发现Windows Defender过于烦人，要解决它，建议安装轻量级的杀毒软件来接管，而不是直接将防护关闭，这有利于保障安全&lt;/li&gt;
-&lt;li&gt;要恢复&lt;em&gt;Microsoft Store&lt;/em&gt;，可以在&lt;em&gt;PowerShell&lt;/em&gt;中输入&lt;em&gt;winset -r&lt;/em&gt;，但目前此版本下的商店已经无法工作，不必浪费空间&lt;/li&gt;
+&lt;li&gt;你可能会发现 &lt;em&gt;Windows Defender&lt;/em&gt; 过于烦人，要解决它，建议安装轻量级的杀毒软件来接管，而不是直接将防护关闭，这有利于保障安全&lt;/li&gt;
+&lt;li&gt;要恢复 &lt;em&gt;Microsoft Store&lt;/em&gt;，可以在 &lt;em&gt;PowerShell&lt;/em&gt; 中输入 &lt;em&gt;winset -r&lt;/em&gt; ，但目前此版本下的商店已经无法工作，不必浪费空间&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;剩下的还请您自行探索～&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         </item>
         <item>
         <title>Apple MacBook Air M1</title>
-        <link>http://localhost:1313/it/device/mbam1/</link>
+        <link>https://blog.lcna.cn/it/device/mbam1/</link>
         <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/it/device/mbam1/</guid>
+        <guid>https://blog.lcna.cn/it/device/mbam1/</guid>
         <description>&lt;h3 id=&#34;aotra-认证的移动设备&#34;&gt;Aotra 认证的移动设备：
 &lt;/h3&gt;&lt;p&gt;注：本页面所有内容均以我手上设备为准，因不同地区版本或有差异&lt;/p&gt;
 &lt;ul&gt;
@@ -295,12 +459,12 @@ Tips：建议使用该系统对应的配置，不太建议强求使用Adobe全�
         </item>
         <item>
         <title>广发银行鱼跃龙门借记卡（白金）</title>
-        <link>http://localhost:1313/eco/bank/cgblylm/</link>
+        <link>https://blog.lcna.cn/eco/bank/cgblylm/</link>
         <pubDate>Sun, 24 Aug 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/eco/bank/cgblylm/</guid>
+        <guid>https://blog.lcna.cn/eco/bank/cgblylm/</guid>
         <description>&lt;h3 id=&#34;广发银行鱼跃龙门借记卡白金&#34;&gt;广发银行鱼跃龙门借记卡（白金）
-&lt;/h3&gt;&lt;img src=&#34;http://localhost:1313/images/cgblylm.jpg&#34; width=&#34;250&#34; height=&#34;200&#34; alt=&#34;广发银行鱼跃龙门借记卡（白金）&#34; /&gt;
+&lt;/h3&gt;&lt;img src=&#34;https://blog.lcna.cn/images/cgblylm.jpg&#34; width=&#34;250&#34; height=&#34;200&#34; alt=&#34;广发银行鱼跃龙门借记卡（白金）&#34; /&gt;
 &lt;h4 id=&#34;基本信息&#34;&gt;基本信息：
 &lt;/h4&gt;&lt;ul&gt;
 &lt;li&gt;卡组织和对应信息：&lt;strong&gt;万事达 MasterCard&lt;/strong&gt;（万事网联 人民币美元双币借记卡）&lt;strong&gt;Platinum 白金&lt;/strong&gt;&lt;/li&gt;
@@ -362,17 +526,17 @@ Tips：建议使用该系统对应的配置，不太建议强求使用Adobe全�
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;img src=&#34;http://localhost:1313/images/cgblylm1.jpg&#34; width=&#34;250&#34; height=&#34;200&#34; alt=&#34;广发银行鱼跃龙门借记卡（白金）&#34; /&gt;
-&lt;img src=&#34;http://localhost:1313/images/cgblylm2.jpg&#34; width=&#34;250&#34; height=&#34;200&#34; alt=&#34;广发银行鱼跃龙门借记卡（白金）&#34; /&gt;</description>
+&lt;img src=&#34;https://blog.lcna.cn/images/cgblylm1.jpg&#34; width=&#34;250&#34; height=&#34;200&#34; alt=&#34;广发银行鱼跃龙门借记卡（白金）&#34; /&gt;
+&lt;img src=&#34;https://blog.lcna.cn/images/cgblylm2.jpg&#34; width=&#34;250&#34; height=&#34;200&#34; alt=&#34;广发银行鱼跃龙门借记卡（白金）&#34; /&gt;</description>
         </item>
         <item>
         <title>广发银行Lucky借记卡</title>
-        <link>http://localhost:1313/eco/bank/cgblucky/</link>
+        <link>https://blog.lcna.cn/eco/bank/cgblucky/</link>
         <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/eco/bank/cgblucky/</guid>
+        <guid>https://blog.lcna.cn/eco/bank/cgblucky/</guid>
         <description>&lt;h3 id=&#34;广发银行lucky借记卡&#34;&gt;广发银行Lucky借记卡
-&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/cgblucky.jpg&#34;
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://blog.lcna.cn/images/cgblucky.jpg&#34;
 	
 	
 	
@@ -452,10 +616,10 @@ Tips：建议使用该系统对应的配置，不太建议强求使用Adobe全�
         </item>
         <item>
         <title>关于Aotra&#39;s Blog</title>
-        <link>http://localhost:1313/about/</link>
+        <link>https://blog.lcna.cn/about/</link>
         <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/about/</guid>
+        <guid>https://blog.lcna.cn/about/</guid>
         <description>&lt;h3 id=&#34;欢迎来到-aotras-blog&#34;&gt;欢迎来到 Aotra&amp;rsquo;s Blog!
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;由 &lt;strong&gt;Aotra Wong&lt;/strong&gt; 倾力打造，包含多方面的内容&lt;/li&gt;
@@ -510,10 +674,10 @@ Tips：建议使用该系统对应的配置，不太建议强求使用Adobe全�
         </item>
         <item>
         <title>Hello World</title>
-        <link>http://localhost:1313/daily/helloworld/</link>
+        <link>https://blog.lcna.cn/daily/helloworld/</link>
         <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/daily/helloworld/</guid>
+        <guid>https://blog.lcna.cn/daily/helloworld/</guid>
         <description>&lt;h3 id=&#34;hello-world&#34;&gt;Hello World
 &lt;/h3&gt;&lt;h4 id=&#34;welcome-to-aotras-blog&#34;&gt;Welcome to Aotra&amp;rsquo;s Blog
 &lt;/h4&gt;&lt;h4 id=&#34;runnning-on-hugo-with-stack-theme-powered-by-cloudflare-pages&#34;&gt;Runnning on Hugo with Stack Theme, Powered by CloudFlare Pages
@@ -521,10 +685,10 @@ Tips：建议使用该系统对应的配置，不太建议强求使用Adobe全�
         </item>
         <item>
         <title>滨海湾畔</title>
-        <link>http://localhost:1313/works/poem/bhwp/</link>
+        <link>https://blog.lcna.cn/works/poem/bhwp/</link>
         <pubDate>Sat, 08 Mar 2025 10:22:15 +0000</pubDate>
         
-        <guid>http://localhost:1313/works/poem/bhwp/</guid>
+        <guid>https://blog.lcna.cn/works/poem/bhwp/</guid>
         <description>&lt;p&gt;&lt;font size=4&gt;&lt;strong&gt;乘上小舟&lt;/strong&gt;&lt;/font&gt;&lt;br&gt;
 &lt;font size=4&gt;&lt;strong&gt;划起船桨&lt;/strong&gt;&lt;/font&gt;&lt;br&gt;
 &lt;font size=4&gt;&lt;strong&gt;水波激荡&lt;/strong&gt;&lt;/font&gt;&lt;br&gt;
@@ -541,10 +705,10 @@ Tips：建议使用该系统对应的配置，不太建议强求使用Adobe全�
         </item>
         <item>
         <title>南北连一线</title>
-        <link>http://localhost:1313/works/poem/nblyx/</link>
+        <link>https://blog.lcna.cn/works/poem/nblyx/</link>
         <pubDate>Sat, 08 Mar 2025 10:22:15 +0000</pubDate>
         
-        <guid>http://localhost:1313/works/poem/nblyx/</guid>
+        <guid>https://blog.lcna.cn/works/poem/nblyx/</guid>
         <description>&lt;h3 id=&#34;雪山&#34;&gt;雪山
 &lt;/h3&gt;&lt;p&gt;&lt;font size=5&gt;&lt;strong&gt;矗立在群山之中&lt;/strong&gt;&lt;/font&gt;&lt;br&gt;
 &lt;font size=5&gt;&lt;strong&gt;覆盖着皑皑白雪&lt;/strong&gt;&lt;/font&gt;&lt;br&gt;
@@ -584,18 +748,18 @@ Tips：建议使用该系统对应的配置，不太建议强求使用Adobe全�
         </item>
         <item>
         <title>归档</title>
-        <link>http://localhost:1313/archives/</link>
+        <link>https://blog.lcna.cn/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/archives/</guid>
+        <guid>https://blog.lcna.cn/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>搜索</title>
-        <link>http://localhost:1313/search/</link>
+        <link>https://blog.lcna.cn/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/search/</guid>
+        <guid>https://blog.lcna.cn/search/</guid>
         <description></description>
         </item>
         
