@@ -23,10 +23,15 @@ menu = "main"
 * 乘坐交通工具的用时**视乎实际情况**而定，时效和可行性仅供参考！
 
 ### 下面是许多链接～
+#### 外部链接
+* [Github Zhisheng666](https://github.com/Zhisheng666)
+* [X/Twitter](https://twitter.com/aotrawong)
+* [Bilibili](https://space.bilibili.com/434841725)
 #### Aotra Wong、LCNA 和 六和中心 的网页
 * [六和中心 Liuhe Center](https://lcna.cn)
 * [LCNA Docs](https://docs.lcna.cn)
 * [DPS/东莞开创Minecraft服务器](https://dps.lcna.cn)
+* [PioneeRun](https://pioneerun.lcna.cn)
 #### 友情链接
 * [BugDuck Team](https://bugduck.org)
 * [n1ghts4kura 夜樱](https://s4kura.cc)
